@@ -41,11 +41,13 @@
 
 <!-- Your community, and what your classifier sorts posts into. Three or four
      sentences. -->
-This classifier sorts individual comments from the Wikipedia WikiProject Video
-games discussion community. The community collaborates on video-game articles,
-including their content, sources, and organization. The classifier identifies
-each comment's main purpose as a `question`, `suggestion`, or `discussion`.
-It uses the comment text, not images or the full conversation.
+This project classifies individual comments from Wikipedia's WikiProject Video
+games discussion community, where editors collaborate on video-game articles,
+sources, and organization. It sorts each comment by its main purpose: asking a
+`question`, offering a `suggestion`, or contributing to the `discussion`. The
+classifier uses the comment text, not images or the full conversation. Its
+initial dataset comes from a single discussion archive, so it may not represent
+the entire community.
 
 
 ---
@@ -200,22 +202,19 @@ is provisional because human review of 180 AI-labeled comments is pending.
 
 **Moment 1**
 
-- *What I asked for:* Help finding an online community with an authorized way
-  to collect posts after deciding not to scrape Reddit.
-- *What came back:* Wikipedia's WikiProject Video games discussion community
-  and Wikimedia's API and content-license guidance.
-- *What I changed:* Switched the project from Reddit to Wikipedia discussions
-  and adapted the labels to discussion comments.
+- *What I asked for:* Small edits and guidance to the Jupyter notebook and how to set up the kernel properly.
+- *What came back:* The requested changes.
+- *What I changed:* I was able to adapt the notebook and set up the project to use my dataset.
 
 **Moment 2**
 
-- *What I asked for:* Help collecting 200 examples and updating the project
-  documentation for the new source.
-- *What came back:* A collector, 200 comments with source links, revised
-  documentation, and AI pre-labels for the 180 comments after the cold set.
-- *What I changed:* I labeled the first 20 independently. AI proposed three
-  hard cases; those choices and the pre-labels still need my individual review
-  and correction.
+- *What I asked for:* Help collecting and labeling 200 comments and documenting
+  difficult label boundaries.
+- *What came back:* AI created a collector and source-linked dataset,
+  pre-labeled 180 comments, and proposed three hard cases with explanations.
+- *What I changed:* I independently labeled the first 20 comments and kept the
+  AI-generated labels and hard-case choices marked as provisional. I still need
+  to read and correct every pre-labeled comment myself.
 
 **Pre-labelling disclosure:** 180 rows were pre-labeled by AI after the first
 20 were labeled cold. Human review and correction of the pre-labels is pending.
