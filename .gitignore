@@ -8,6 +8,7 @@ __pycache__/
 .venv/
 venv/
 env/
+collect_wikipedia.py
 
 # Jupyter
 .ipynb_checkpoints/

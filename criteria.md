@@ -55,10 +55,13 @@ whether you hit them:
 
 <!-- Your criterion. It must name a number. -->
 
-
+On the held-out test set, the classifier must correctly identify at least 70%
+of comments whose human-assigned label is `question` (recall ≥ 0.70).
 
 **Why this target:**
 
+I chose 70% because questions identify editors seeking input, and I want the
+classifier to find most of those comments.
 
 
 ---
@@ -67,10 +70,13 @@ whether you hit them:
 
 <!-- Your criterion. -->
 
+Overall accuracy on the held-out posts must be at least 75%.
 
 
 **Why this target:**
 
+I chose 75% because the classifier should correctly sort a useful majority of
+comments across the three categories, despite overlap between their purposes.
 
 
 ---
@@ -79,10 +85,15 @@ whether you hit them:
 
 <!-- Your criterion. -->
 
+Two human annotators must agree on at least 60% of a shared set of 20 posts
+that they label independently using this project's taxonomy.
 
 
 **Why this target:**
 
+I chose 60% as a minimum level of agreement because a comment can both suggest
+an edit and ask for input; human agreement checks whether the written boundary
+rule can be applied consistently.
 
 
 ---
@@ -91,10 +102,14 @@ whether you hit them:
 
 <!-- Your criterion. -->
 
-
+The `discussion` label must have an F1 score of at least 0.50 on the held-out test
+set.
 
 **Why this target:**
 
+I chose 0.50 because discussion comments can be short replies that depend on
+the surrounding thread, which the text-only classifier does not receive, but I
+still want the model to identify them with some reliability.
 
 
 ---
@@ -103,10 +118,13 @@ whether you hit them:
 
 <!-- Your criterion. -->
 
-
+Of the held-out comments the classifier predicts as `suggestion`, at least 50%
+must actually have the human-assigned label `suggestion` (precision ≥ 0.50).
 
 **Why this target:**
 
+I chose 50% because a list of predicted suggestions should contain genuine
+actionable proposals often enough to help editors find potential improvements.
 
 
 ---

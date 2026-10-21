@@ -41,7 +41,11 @@
 
 <!-- Your community, and what your classifier sorts posts into. Three or four
      sentences. -->
-
+This classifier sorts individual comments from the Wikipedia WikiProject Video
+games discussion community. The community collaborates on video-game articles,
+including their content, sources, and organization. The classifier identifies
+each comment's main purpose as a `question`, `suggestion`, or `discussion`.
+It uses the comment text, not images or the full conversation.
 
 
 ---
@@ -54,33 +58,52 @@
      The decision rule is worth a point on its own and it's the thing most
      people leave out. Every taxonomy has a hardest boundary. Name yours. -->
 
-### `label_one`
+### `question`
 
-**Definition:**
-
-**Example 1:**
->
-
-**Example 2:**
->
-
-### `label_two`
-
-**Definition:**
+**Definition:** A comment explicitly requests information, clarification, help,
+or input from other editors about a Wikipedia-related issue.
 
 **Example 1:**
->
+> [ProtoDrake asks about a guideline for game engines.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ProtoDrake-20221012164200-Respiciens-20221012103500)
 
 **Example 2:**
->
+> [Blaze Wolf asks for suggestions for a Did You Know hook.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221010131600-DYK_for_Need_for_Speed_Unbound)
+
+### `suggestion`
+
+**Definition:** A comment recommends a specific action or change that an editor
+could take concerning a Wikipedia article, source, or process.
+
+**Example 1:**
+> [PerryPerryD recommends gathering more article information before a nomination.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221010144300-Blaze_Wolf-20221010131600)
+
+**Example 2:**
+> [Yeeno proposes a hook about the game's leaked title.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Yeeno-20221010212600-Blaze_Wolf-20221010131600)
+
+### `discussion`
+
+**Definition:** A comment shares an opinion, explanation, observation, status
+update, or agreement without explicitly requesting input or recommending a
+specific action.
+
+**Example 1:**
+> [Blaze Wolf explains why there is little criticism available yet.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221010144500-PerryPerryD-20221010144300)
+
+**Example 2:**
+> [Masem explains the convention for including game engines in infoboxes.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221012180400-ProtoDrake-20221012164200)
 
 ### The hardest boundary
 
-**Which two labels:**
+**Which two labels:** `question` and `suggestion`
 
-**The decision rule I used every time:**
-<!-- e.g. "If the post names a specific checkable fact, it's `analysis`, even
-     if the tone is heated." -->
+**Borderline comment:** [ProtoDrake raises a sourcing issue and asks whether a
+guideline applies.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ProtoDrake-20221012164200-Respiciens-20221012103500)
+
+**The decision rule:** If a comment explicitly asks others for information,
+help, or input, label it `question` even if it also mentions a possible action;
+otherwise, use `suggestion` for a specific recommended action and `discussion`
+for the remaining comments. A rhetorical question that does not seek an answer
+does not by itself make a comment a `question`.
 
 
 
@@ -91,45 +114,55 @@
 <!-- Where you collected from, how you labelled, your counts, and three hard
      cases. -->
 
-**Where the posts came from:**
+**Where the posts came from:** Individual comments on [Wikipedia's WikiProject
+Video games discussion archive 165](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165),
+collected using the MediaWiki API. The CSV's `note` field retains each comment's
+permalink (which identifies its author) and the source page revision. Wikipedia
+text is licensed under [CC BY-SA](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use);
+preserve attribution and check the applicable license requirements when sharing.
+This initial sample comes from one archive and includes related replies, so it
+may not represent the whole community and random splitting may place comments
+from the same discussion in different splits.
 
-**How I labelled them:** <!-- Cold first? Pre-labelled with AI and corrected?
-Say so plainly — the disclosure is required, not penalised. -->
+**How I labelled them:** The first 20 comments were labeled independently and
+marked `cold`. The remaining 180 were pre-labeled by AI and are marked
+`AI pre-labeled; human review pending`; each must still be read and corrected by
+the student. Source information is retained in each note.
 
 **Counts per label:**
 
 | Label | Count | Share |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| **Total** |  | 100% |
+| `question` | 47 | 23.5% |
+| `suggestion` | 55 | 27.5% |
+| `discussion` | 98 | 49% |
+| **Total** | 200 | 100% |
+
+These counts include 180 provisional AI labels and will change if labels are
+corrected. The AI flagged several automated announcements and a formatting
+artifact in their notes for special review.
 
 **Three hard cases**
 
 <!-- Any post that made you pause: what it was, which two labels it could have
      been, and what you chose. These are worth more than the easy 190. -->
 
-**1.**
-> *The post:*
->
-> *Could have been:*
->
-> *I chose, because:*
+These are AI-proposed hard cases and choices; they still need my review.
 
-**2.**
-> *The post:*
->
-> *Could have been:*
->
-> *I chose, because:*
+**1.** [ProtoDrake discusses sourcing and asks about the guideline.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ProtoDrake-20221012164200-Respiciens-20221012103500)
 
-**3.**
-> *The post:*
->
-> *Could have been:*
->
-> *I chose, because:*
+Could be `question` or `discussion`. The provisional choice is `question`:
+although the comment explains a concern, it also explicitly asks for clarification.
+
+**2.** [Blaze Wolf describes an unsourced Pokémon gameplay article and says they are unsure what to do.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221013154000-Gameplay_of_Pokémon)
+
+Could be `question` or `discussion`. The provisional choice is `discussion`:
+the comment expresses uncertainty but does not explicitly ask for help.
+
+**3.** [Alyo discusses whether the gameplay article has enough sourcing and proposes a different focus.](https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Alyo-20221013155100-Blaze_Wolf-20221013154000)
+
+Could be `suggestion` or `discussion`. The provisional choice is `suggestion`:
+the comment proposes focusing more on how gameplay has evolved, not just an assessment of the article.
 
 ---
 
@@ -137,15 +170,20 @@ Say so plainly — the disclosure is required, not penalised. -->
 
 <!-- Your starting model, your settings, and anything you changed and why. -->
 
-**Base model:**
+**Base model:** `distilbert-base-uncased`.
 
-**Settings:** <!-- epochs, learning rate, batch size, seed -->
+**Settings:** 3 epochs, learning rate 2e-5, batch size 16, maximum 128 tokens,
+seed 42; CPU, PyTorch 2.14.1+cu130.
 
-**Anything I changed from the defaults, and why:**
+**Anything I changed from the defaults, and why:** The label map and input file
+were set in memory to the Wikipedia labels and `labels.csv`; the notebook itself
+was not changed. Training hyperparameters were unchanged. Results were written
+to a separate run directory to preserve existing root-level results.
 
-**Split sizes:** <!-- train / val / test, and per-label counts in the test
-split. If a label had fewer than about 8 in test, say so — it explains a lot
-of next unit's variance. -->
+**Split sizes:** 139 train / 31 validation / 30 test. The test set has 7
+`question`, 8 `suggestion`, and 15 `discussion` examples. With only 7 test
+questions, that label's metrics can vary substantially between splits. This run
+is provisional because human review of 180 AI-labeled comments is pending.
 
 
 
@@ -162,17 +200,25 @@ of next unit's variance. -->
 
 **Moment 1**
 
-- *What I asked for:*
-- *What came back:*
-- *What I changed:*
+- *What I asked for:* Help finding an online community with an authorized way
+  to collect posts after deciding not to scrape Reddit.
+- *What came back:* Wikipedia's WikiProject Video games discussion community
+  and Wikimedia's API and content-license guidance.
+- *What I changed:* Switched the project from Reddit to Wikipedia discussions
+  and adapted the labels to discussion comments.
 
 **Moment 2**
 
-- *What I asked for:*
-- *What came back:*
-- *What I changed:*
+- *What I asked for:* Help collecting 200 examples and updating the project
+  documentation for the new source.
+- *What came back:* A collector, 200 comments with source links, revised
+  documentation, and AI pre-labels for the 180 comments after the cold set.
+- *What I changed:* I labeled the first 20 independently. AI proposed three
+  hard cases; those choices and the pre-labels still need my individual review
+  and correction.
 
-**Pre-labelling disclosure:**
+**Pre-labelling disclosure:** 180 rows were pre-labeled by AI after the first
+20 were labeled cold. Human review and correction of the pre-labels is pending.
 
 <!-- ═══════════════════════ UNIT 6 — THE TEST ═══════════════════════
 
@@ -190,8 +236,9 @@ of next unit's variance. -->
 |---|---|---|---|
 | Overall accuracy |  |  |  |
 | Macro F1 |  |  |  |
-| F1 — `label_one` |  |  |  |
-| F1 — `label_two` |  |  |  |
+| F1 — `question` |  |  |  |
+| F1 — `suggestion` |  |  |  |
+| F1 — `discussion` |  |  |  |
 
 **What I predicted before I looked:**
 <!-- Milestone 1 asks you to write this BEFORE seeing the trained numbers. A
@@ -223,11 +270,11 @@ of next unit's variance. -->
 <!-- ⚠️ TYPED AS A MARKDOWN TABLE. The notebook prints one ready to paste.
      An image of a matrix earns nothing. -->
 
-| true \ predicted |  |  |  |
+| true \ predicted | `question` | `suggestion` | `discussion` |
 |---|---|---|---|
-| **** |  |  |  |
-| **** |  |  |  |
-| **** |  |  |  |
+| `question` |  |  |  |
+| `suggestion` |  |  |  |
+| `discussion` |  |  |  |
 
 **My biggest off-diagonal number, and what it means:**
 <!-- Not "the model made mistakes" — WHICH boundary it didn't learn, and which
