@@ -1,0 +1,697 @@
+text,label,note
+"Hello! I'm currently working on adding a source from NPR to the Legacy section of Splatoon, however I can't quite figure out how to start the sentence to mention what the source is saying. Anyone have some tips?",question,Cold;source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221006133100-NPR_source_addition_to_Splatoon; revision: 1129394950
+"Probably something like, ""the series has been praised by fans for its positivity compared to other competitive shooters, with gameplay choices such as restricting voice chat and not making the goal to attack other players, as well as a less demanding and more casual focus.""",suggestion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Zxcvbnm-20221006134700-Blaze_Wolf-20221006133100; revision: 1129394950
+"I was thinking I would make it something like, ""In an article by NPR..."", I'm just not sure how to transition out of that",discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221006135400-Zxcvbnm-20221006134700; revision: 1129394950
+"I wouldn't say you need that source highlighting. Unless it's an exceptional or controversial claim, or it's a single critic opinion, for example, I generally don't include direct mention of the source.",suggestion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-David_Fuchs-20221006141200-Blaze_Wolf-20221006135400; revision: 1129394950
+"Ah alright. I just don't feel like saying ""The series has been praised by fans"" would make sense since it appears to be a bunch of interviews with different people who probably aren't fans of the game since they've never played it before (except for the one involving the streamer ThatSrb2DUDE).",discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221006153200-David_Fuchs-20221006141200; revision: 1129394950
+"You could start with ""NPR reported on ..."" if you really want to emphasize the source. I don't know that it's necessary here but it's your prerogative.",suggestion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Axem_Titanium-20221006170400-Blaze_Wolf-20221006153200; revision: 1129394950
+I might do that. Since it's not really just fans but it's not just one person either. I'll mess around with it in my sandbox and come back here if need be.,discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221006175000-Axem_Titanium-20221006170400; revision: 1129394950
+"Alright here's what I have so far, ""NPR reported on how Splatoon was different from most other shooters in the genre and has created a more welcoming community than other shooters."" Any suggestions on how to change it? The article seems to bounce around to different related topics so it's kinda hard to summarize it.",discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221006175900-Axem_Titanium-20221006170400; revision: 1129394950
+"I would usually name the writer (assuming a credit is given, which is true in this case), as to reflect that it is one person writing for a major publication and not a major publication itself issuing the opinion. This then makes it easier, if needed, to pull quotes that may be easier to use than attempts to paraphrasing.",suggestion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221007004800-Blaze_Wolf-20221006175900; revision: 1129394950
+"Ah alright. Technically here are multiple people featured in the article, but I could probably just say ""x stated this (quote)"".",discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221007011200-Masem-20221007004800; revision: 1129394950
+"If you can narrow down a talking point to one person, then you can name them.",suggestion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221007012300-Blaze_Wolf-20221007011200; revision: 1129394950
+"The article Rugal Bernstein was merged some months ago due to notabilty issues apparently. However, once SNK turned into a free DLC for The King of Fighters XV, the character suddenly became hot topic such as here, here, https://abcnoticias.mx/local/2021/8/29/bronco-felicita-gamers-en-su-dia-pide-no-usar-rugal-en-retas-de-kof-145765.html here], here among others. Is it possible for the character to pass GNG with such sources? There might be more. There are far more sources but in Spanish which I think might help. Any suggestions?",discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Tintor2-20221008154400-Question_about_GNG; revision: 1129394950
+"Should wait until they are shown to be more than merely announcements and news posts. Fighting game characters have a pretty high bar to pass since they don't get much story development within games for critics to comment on. When an article goes heavily indepth on analyzing the character, that's significant coverage.",discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Zxcvbnm-20221008160500-Tintor2-20221008154400; revision: 1129394950
+"Randomly came to mind after Nintendo's reiteration of their policy on copyrighted images/videos on the internet, and while Nintendo is notoriously one of the worst companies to use as an example, it should suffice. 
+
+(Translated of course, which also means it's worth noting that Japan's laws are different from the US's (where Wikipedia is hosted), but again, Nintendo specifically isn't the purpose of this) Nintendo's policies detail that ""customers who are individuals may post videos, still images, etc. that use Nintendo game copyrighted works only for non-commercial purposes"", if they include ""your own creativity [sometimes they say and, sometimes or, but it should be irrelevant] comments"". Referencing the ""who are individuals"" from earlier, they elaborate by saying ""however, contributors belonging to the following legal entities with which a separate agreement has been concluded may use Nintendo game copyrighted works in the same manner as individual customers, even if they are posting as part of the business of the organization to which they belong"" (the part relevant to Wikipedia, as Wikipedians are contributors, not employees).
+
+To my actual question, though, wouldn't use of things like screenshots to fall under these guidelines and thus be allowed, without the need for down scaling and whatnot, provided it includes commentary, which screenshots on Wikipedia are, between non-free use guidelines and general image policy, required to have?",question,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-DecafPotato-20221013032800-Random_question_-_do_the_publisher's_guidelines_apply_when_using_non-free_images; revision: 1129394950
+"Low resolution is a Wikimedia policy; unless the screenshots are in the public domain or licensed under a free license, the Wikipedia rules still apply. That Nintendo policy is basically just a description of fair use.",discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Rhain-20221013044500-DecafPotato-20221013032800; revision: 1129394950
+"US fair use laws tend to override company policies on images, but it does depend on other factors like if the company is commercially making money off those images, like with Gettys Photos (hence why NFCC#2 excludes those types of works).",discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221013045500-DecafPotato-20221013032800; revision: 1129394950
+"If we considered this policy a ""license"" (which it isn't), our usage would not fall under it, as it states ""only for non-commercial purposes."" Though the website itself is freely available and largely unadvertised, all content must be legal to sell as well. ~",discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Maplestrip-20221013062900-DecafPotato-20221013032800; revision: 1129394950
+"List of Unity games exists, but there’s no corresponding category within Category:Video games by game engine. Adding a category to multiple articles from that list will require some automated tools, and I’m not familiar with them.",suggestion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Respiciens-20221012094300-Add_category_for_Unity_games; revision: 1129394950
+We had one but it was deleted as it was considered a non-defining category.,discussion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-IceWelder-20221012102900-Respiciens-20221012094300; revision: 1129394950
+"Oh. It’s very confusing that Unity alone is missing from that category. Maybe it should be mentioned in the category text. I mean, even Unreal category with its huge number of games was not deleted. -",suggestion,Cold; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Respiciens-20221012103500-IceWelder-20221012102900; revision: 1129394950
+"I think this may possibly raise an issue I've noticed with some games and people saying which engines they use. Encountered it with Prince of Persia: The Forgotten Sands (Wii), where I found no sources to substantiate the claim that it was made using Ubisoft's Jade engine. Is there any guideline or MOS regarding game engines? It might in some way apply to this conversation. -",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ProtoDrake-20221012164200-Respiciens-20221012103500; revision: 1129394950
+"In infoboxes, we only inude the game engine if it notable (like Unreal or idTech) or is discussed in depth in an appropriate article (like Dunia). We don't want one-iff engines or those that we don't really know what special features the engine has.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221012180400-ProtoDrake-20221012164200; revision: 1129394950
+That's what I thought. Just clarification. -,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ProtoDrake-20221012213400-Masem-20221012180400; revision: 1129394950
+"By a strict reading of WP:CATDEF, none of the engine categories are defining. Game engine used by the game only gets discussed by gaming media if there's something special about it use in the game, otherwise it's not even mentioned. Meanwhile, lists like List of Unity games cannot get most of its entries sourced. So the sources don't really use the engine as a defining characteristic. Of course, given the number and variety of purely trivial categories we have, that's also a standard upheld very selectively. But I would definitely say that we either have categories for all (notable) engines or none of them, but not some weird mix. No categories for non-notable engines though.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Hellknowz-20221012182300-IceWelder-20221012102900; revision: 1129394950
+"This is what I feel. Game engines that can be documented is something for Wikidata and not categories, now that we have Wikidata.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221013050000-Hellknowz-20221012182300; revision: 1129394950
+"I started the deletion nomination for Category:Video games by game engine and its subcategories, see notice below. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Respiciens-20221013101600-Add_category_for_Unity_games; revision: 1129394950
+"Category:Video games by game engine has been nominated for possible deletion, merging, or renaming. A discussion is taking place to decide whether this proposal complies with the categorization guidelines. If you would like to participate in the discussion, you are invited to add your comments at the category's entry on the categories for discussion page. Thank you.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Respiciens-20221013101600-Category:Video_games_by_game_engine_has_been_nominated_for_discussion; revision: 1129394950
+"Hello! I'm currently wanting to do a DYK for NFS Unbound, however I""m having some trouble figuring out the hook. I figure something relating to the new art style the game is going for would be good (especially since it's source reliably) however I'm not exactly sure how to word it in a way that would fit with a DYK. Any suggestions?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221010131600-DYK_for_Need_for_Speed_Unbound; revision: 1129394950
+"This article is still marked as ""Start"" class and is limited in information, especially a notable lack of criticism. I honestly would try to get more information first before you do a DYK.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221010144300-Blaze_Wolf-20221010131600; revision: 1129394950
+There's not much criticism at the moment considering the game isn't released and it's only recently revealed.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221010144500-PerryPerryD-20221010144300; revision: 1129394950
+"If the game has yet to be released, isnt it way too soon for a DYK?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221010144600-Blaze_Wolf-20221010144500; revision: 1129394950
+"Definitely not. In fact, that's likely one of the only times it would even be eligible (besides 5x expansion or a successful GAN).",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Rhain-20221010145700-PerryPerryD-20221010144600; revision: 1129394950
+That is right. An article is only eligible for a DYK 7 days (or a week) after its creation (excluding 5x expansion or a GAN).,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221010152600-Rhain-20221010145700; revision: 1129394950
+"There's really no correlation between those two things, and the article is in decent shape considering we're 2 months away from release...",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221010144700-PerryPerryD-20221010144300; revision: 1129394950
+"I'd argue it is a violation of WP:NOTPROMO to do a DYK for an upcoming video game (or any work of media, really). Wikipedia should not be doing free advertising for people, so while an already released work is fine, adding to pre-release hype makes Wikipedia seem like it is being gamed.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Zxcvbnm-20221010204800-Sergecross73-20221010144700; revision: 1129394950
+I don't really spend much time on DYK stuff so I'm no expert...but is that a common stance? I've never encountered anyone ever say that in passing at least...,question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221010205500-Zxcvbnm-20221010204800; revision: 1129394950
+@Zxcvbnm: I've never heard of that. And if so then that means it'll be impossible for me to get a DYK on this article. I'd say that as long as the DYK is neutral and isn't about it coming out soon it's fine.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221010210400-Zxcvbnm-20221010204800; revision: 1129394950
+"You could technically argue that about any product that has ever appeared at DYK, upcoming or otherwise. WP:DYKNOT has a point about advertising, so as long as the hook remains neutral, I doubt there would be any issues.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Rhain-20221011002100-Zxcvbnm-20221010204800; revision: 1129394950
+I've gone ahead and submitted a DYK for it with a hook relating to the art style and an alternate hook relating to EA accdientally leaking the title on their own website like Yeeno suggested below.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221011005900-Rhain-20221011002100; revision: 1129394950
+"When PMTOK was being reviewed for TFA, an eyebrow was raised about featuring an article about a product that's still new and being advertised. If I recall correctly it was justified that the article was neutral enough to not be an issue. Therefore I have the same stance as Rhain.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Panini!-20221013122700-Rhain-20221011002100; revision: 1129394950
+"@Blaze Wolf: You could write something about its title being leaked. For example, DYK ...that video game publisher Electronic Arts accidentally revealed the title for Need for Speed Unbound days before its announcement?",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Yeeno-20221010212600-Blaze_Wolf-20221010131600; revision: 1129394950
+"That's what I was gonna suggest. I feel like this is quite common (Nintendo accidentally leaks stuff like this by themselves, like, with every game they release), but it's still interesting.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Panini!-20221013122900-Yeeno-20221010212600; revision: 1129394950
+"Hello! I'm currently working on Draft:Need for Speed Unbound (which people apparently can't wait for considering what's on there now was just copied from a completely unsourced version of the page at the wrong title and people kept adding links to it on Need for Speed). I recall Panini! helped me out with my previous draft for Splatoon 3. I don't have any sources on there yet however I will get some soon as I was waiting for sources to actually publish useful information on the game instead of just ""Oh wow there's a new need for speed game. More at 6"". Any help with it would be appreciated.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221007133300-Assistance_with_draft; revision: 1129394950
+"@Blaze Wolf I'm busy but I acknowledge this. It's looking good!
+One comment I can give is expanding the gameplay section. While it makes sense to pull a ""yeah, what he said"" and pretty much just say ""the gameplay reiterates that of the games before it"", but people probably aren't looking to read another article to understand the gist of the original game they were reading on. This is especially true if a video game series has numerous entries, meaning a reader ends up reading gameplay on Mario & Luigi: Superstar Saga when they just wanted to read Mario & Luigi: Paper Jam.
+In short, explain the gameplay to a basic extent. You can use the ""like previous games"" crutch a little bit to get out of explaining it in excruciating detail, but the reader should understand the gameplay from reading only NFS Unbound, not the article about the game before it.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Panini!-20221013123600-Blaze_Wolf-20221007133300; revision: 1129394950
+"A discussion is taking place as to whether these articles are suitable for inclusion in Wikipedia according to Wikipedia's policies and guidelines or whether they should be deleted.
+
+List of CryEngine games
+
+List of GameMaker games
+
+List of RenderWare games
+
+List of Ren'Py games
+
+List of Sierra's Creative Interpreter games
+
+List of Unity games
+
+List of Unreal Engine games
+
+The articles will be discussed at Wikipedia:Articles for deletion/List of CryEngine games until a consensus is reached, and anyone, including you, is welcome to contribute to the discussion. The nomination will explain the policies and guidelines which are of concern. The discussion focuses on high-quality evidence and our policies and guidelines.
+
+Users may edit the articles during the discussion, including to improve the articles to address concerns raised in the discussion. However, do not remove the article-for-deletion notice from the top of the articles until the discussion has finished.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Respiciens-20221013130200-Nomination_of_game_lists_by_engine_for_deletion; revision: 1129394950
+"Hello,
+
+we recently added a new list criteria Here and we decided that it is okay to add characters from other media such as Sally Acorn. You may feel free to add characters as long as you abide to the list criteria listed on the Talk Page.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Pizzaplayer219-20221013162300-List_of_Sonic_the_Hedgehog_characters; revision: 1129394950
+I feel like the list could reasonably be moved back to List of Sonic the Hedgehog video game characters and a new List of Sonic the Hedgehog comics characters could be made. The redirects can still go to the video game list unless they are not mentioned there. It would still not strike me as non-notable since they are separate continuities with entirely different timelines.,suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Zxcvbnm-20221013172800-Pizzaplayer219-20221013162300; revision: 1129394950
+We already had a move discussion though.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Pizzaplayer219-20221013173000-Zxcvbnm-20221013172800; revision: 1129394950
+"Having a move discussion is putting the cart before the horse. It's out of procedure to move the article based on the hypothetical existence of another article. Draft and have the comic list approved first as passing WP:LISTN, and then a move can be proposed for the video game one.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Zxcvbnm-20221013192700-Pizzaplayer219-20221013173100; revision: 1129394950
+"A lot of this was covered in the prior discussions though. For instance, I've already pointed out that there was near unanimous consensus at AFD that the comic book character list was unsalvageable.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221013213100-Zxcvbnm-20221013192700; revision: 1129394950
+"This discussion really should be had at the article, not here. -",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Ferret-20221013213700-Pizzaplayer219-20221013162300; revision: 1129394950
+"Has been relisted 3 times with almost no participation, any thoughts as to whether the first game or the series as a whole is notable would be appreciated.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Zxcvbnm-20221011095200-Wikipedia:Articles_for_deletion/Jisei_(video_game_series); revision: 1129394950
+"Don't know if anyone will see this, but I'm just going to shoehorn in my deletion nomination as well since it got relisted with no participants.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sparkl-20221013223000-Zxcvbnm-20221011095200; revision: 1129394950
+Recently I came across this article that has multiple sections of completely unsourced content and also a lot of info that would really only be interesting to people who play Pokemon (for example: what pokemon is the strongest and weakest for each type). I'm not exactly sure what to do with this article. It's survived a deletion discussion already back in 2006 (See WP:Articles for deletion/Pokémon game mechanics) so I don't think that's the right route to go.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221013154000-Gameplay_of_Pokémon; revision: 1129394950
+"I also think there's enough sourcing out there to keep the article, although with a greater focus on how the gameplay has changed/evolved over the years. As it is, probably 50% of this article is gamecruft though.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Alyo-20221013155100-Blaze_Wolf-20221013154000; revision: 1129394950
+"There is definitely enough sourcing to keep the article, and I even believe the sections that are unsourced have potential sources out there covering them.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-(Oinkers42)-20221013160300-Blaze_Wolf-20221013154000; revision: 1129394950
+That article is insane. Those details go waaaay to far into WP:GAMEGUIDE/WP:GAMECRUFT territory. I'm more of the mindset that it should be pared way down and merged into Pokémon (video game series)#Gameplay like most video game series. Also of note - that AFD is from 2006. Standards were far more lax back then.,suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221013160500-Blaze_Wolf-20221013154000; revision: 1129394950
+@Sergecross73: I agree and disagree. On the one hand it makes the most sense. On the other hand the gameplay mechanics of Pokemon might be complicated enough (or the important mechanics need to be detailed enough) that it might not fit well being compressed into a single section.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221013160900-Sergecross73-20221013160500; revision: 1129394950
+"Then sources need to be brought up that demonstrate these gameplay mechanics are singularly complicated or notable enough to have their own article. We regularly ""dumb down"" explanations of stuff because we have better targets for the mechanics (game genre articles, etc.) and because that's beyond our purview as a general encyclopedia.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-David_Fuchs-20221013161100-Blaze_Wolf-20221013160900; revision: 1129394950
+"I would say any discussion older than a decade is worth revisiting, especially since our standards have risen dramatically since 2006 (when you didn't have to even cite sources inline in articles.) That said, I think an extreme merge rather than deletion is the best option here. Most of it is gamecruft, and if content in it can't be cited to secondary sources that aren't game guides, that's a very strong indication it's not worth mentioning. Moreover, if it's been unreferenced and garbage for years, then I think being bold and cleaning up the mess is the right call versus tagging a bunch of stuff and letting it languish (while it will continue spiraling out of control.) Pokémon (video game series) makes sense as the merge target.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-David_Fuchs-20221013161100-Blaze_Wolf-20221013154000; revision: 1129394950
+@David Fuchs: I wasn't simply planning on tagging it and then just leaving it for someone else to deal with. I was going to tag it and then clean it up a little myself. I simply add the tags so other people are aware that the article has problems and to encourage them to help with cleaning it up.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221013161800-David_Fuchs-20221013161100; revision: 1129394950
+"Definitely requires a lot of clean-up, but I think it's notable enough to stay around; just a bad article at the moment.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-DecafPotato-20221013181000-Blaze_Wolf-20221013154000; revision: 1129394950
+"@Blaze Wolf and I have cut it from 155k bytes to 39k bytes, and while I don't feel strongly enough about the franchise to do this myself, I think most of what's left could be reliably sourced. And I would imagine that the topic as a whole has been covered enough to justify its existence.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Alyo-20221013194100-Gameplay_of_Pokémon; revision: 1129394950
+"A ""gameplay of..."" article needs strong sourcing from secondary independent sourcing, using primary sources only sparnging for completion. The given article here does not at all have that type of sourcing yet. -",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221013230100-Alyo-20221013194100; revision: 1129394950
+"I entirely agree. I'm just saying that discussions about whether to merge or not should probably start with the article in its updated form, where it's a lot easier to process what amount of sourcing is needed to keep the article. you may not be responding to me, in which case--whoops. also I left this comment before I saw that DecafPotato had readded--further whoops",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Alyo-20221013230900-Masem-20221013230100; revision: 1129394950
+"Hello, Im currently working on the Vib-Ribbon article, And I am looking for advice on what should be changed and worked on in this article to get it to GA Class. Anything helps, Thank you.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221004161100-Vib-Ribbon; revision: 1129394950
+"Reception needs much expansion, some reviews in the review table aren't used yet. -",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Ferret-20221004161500-PerryPerryD-20221004161100; revision: 1129394950
+"I added details from the missing reviewes, However i cannot access the GameFan review of the game, can you?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221004163700-Ferret-20221004161500; revision: 1129394950
+"I was able to access the GameFan Review, and added details from it.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221004164900-PerryPerryD-20221004163700; revision: 1129394950
+"I've added three refideas on the talk page you can use(reviews from The Observer, The Guardian and The Age)",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Timur9008-20221005025000-PerryPerryD-20221004161100; revision: 1129394950
+"""Sequels and re-release"" is an awkward section. I would recommend making a ""Release"" section and rename it ""legacy"". If the release section is too small to stand on its own, merge it with development and rename it ""Development and release""
+The lead (including infobox) summarizes all the content within the article, so if there's any content that's not in the body of the article such as Staff and Release dates, make sure you add them in the body and add references to them there.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blue_Pumpkin_Pie-20221005130000-Timur9008-20221005025000; revision: 1129394950
+I feel that more reviews is not the solution here due to WP:DUEWEIGHT,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221005152300-Timur9008-20221005025000; revision: 1129394950
+Fixing MOS:SANDWICH would help a little.,suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-X201-20221005154600-PerryPerryD-20221004161100; revision: 1129394950
+"In this case, Sandwich is unavoidable without damaging the infobox, as far as i can tell, as there is no other place for the image to go.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221005161800-X201-20221005154600; revision: 1129394950
+"It doesn't seem that the image is that important to be next to that specific paragraph, so setting it to the right (which puts it right under the infobox) should be fine.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-DecafPotato-20221005202400-PerryPerryD-20221005161800; revision: 1129394950
+"I'd personally keep the image as it is. At most screen-widths, it might work fine in the development section, but with wider screens it would always look off if you put it on the right. (Good luck on this project Perry!) ~",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Maplestrip-20221006111100-DecafPotato-20221005202400; revision: 1129394950
+I recently gave a review for this article. PerryPerryD is now requesting a second opinion.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blue_Pumpkin_Pie-20221014000700-Vib-Ribbon; revision: 1129394950
+"@PerryPerryD Why are you asking for a second opinion? You have unsourced statements in the Reception section, and unsourced claims in the lede, and I spotted that in a 5 second glance. -",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Ferret-20221014002600-Blue_Pumpkin_Pie-20221014000700; revision: 1129394950
+"I discussed with some people in the discord server about this GAR, And some of them stated that this review is being treated as a FAR. Also, what unsourced statements in the reception section? They WERE sourced, until i was told to pretty much redo the entire thing.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221014021200-Ferret-20221014002600; revision: 1129394950
+"the unsourced statements have nothing to do from the request to paraphrase. This is clearly your first GAN because during the review you were confused about the lead (or lede). The lead is vital for every article. It summarizes the content that is in the article and if the lead has some information in it.
+Lastly, the handful of edits you've made are not enough for you to merit the nomination. You made only a few edits with only a few sources. Where are rhese people frkm discord? Are they wikipedia editors? And how come they arent here to provide the second opinion when you asked for it? Why are you relying on discord to tell you what a GAN review isbsupposed to look like?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blue_Pumpkin_Pie-20221014121500-PerryPerryD-20221014021200; revision: 1129394950
+"I found the relevant message in the commonly-used Wikipedia-specific Discord server (as linked here), from 2022-10-12 in #english-wikipedia. So yes, it's a social group of Wikipedia editors. I do want to note that it's completely fine, normal, and healthy to discuss something like this in an external social group, but from our perspective here ""this review is being treated as a FAR"" is simply Perry's own experience. (I have little comment on the Vib-Ribbon GAR itself; I don't think it currently looks GA but I hope Perry can up its quality :)  ) ~",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Maplestrip-20221014122800-Blue_Pumpkin_Pie-20221014121500; revision: 1129394950
+"My question is if there are editors eilling to implant ideas that I have FA standards and not GA, then where are they to respond to PerryPerryD's second opinion. I think it's fine there's a Wikipedia discord server but I also don't think it should be used as a secondary source. These things should be discussed within Wikipedia in my opinion.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blue_Pumpkin_Pie-20221014125100-Maplestrip-20221014122800; revision: 1129394950
+"I'm sorry PerryPerryD, but I think it's totally fine to fail the article at this point. I mean, Ferret has already given a second opinion on this. This game seems pretty interesting, and good work on the article nonetheless!",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sparkl-20221014125900-Blue_Pumpkin_Pie-20221014125100; revision: 1129394950
+"Hello, there are two discussions going on whether we should keep or delete lists or categories of games by game engine, or both: categories, lists.
+
+I notified about both of them here above, but as there are a large number of lists and especially categories involved, some commenters felt that an additional notification to attract more people is needed.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Respiciens-20221014112500-Deletion_discussions_for_lists_and_categories_of_games_by_game_engine; revision: 1129394950
+"A tip for the future: giant omnibus nominations generally end in no consensus by death of a million cuts. Invariably, different objections arise to individual items that sap the strength of the nomination overall. It may feel like you're saving time by nominating them all at once, but they simply end up not passing. You're better off nominating them one or two at a time in sequence and building support by pinging repeat participants. I say this without making any judgment on the two XFDs at hand, since I'm still unsure of where I stand.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Axem_Titanium-20221014203500-Respiciens-20221014112500; revision: 1129394950
+"But, in this case, both nomination sets are about articles and categories that serve the same function, just with different engines. This is a fully reasonable case for mass noms.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221014225200-Axem_Titanium-20221014203500; revision: 1129394950
+"It's a reasonable case, of course. It makes complete sense to group them into a single nom like these. But if your goal is actually deletion, a deletion outcome is far more likely when you make individual nominations with customized rationales for the specific article/category/template/whatever instead of a giant omnibus nomination with broadly the same rationale. That's just borne out by data, regardless of the strength of the nomination rationale.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Axem_Titanium-20221015034200-Masem-20221014225200; revision: 1129394950
+"It looks like the Article alerts standard text has changed so Template:WPVG announcements/shell's AfD section is no longer displaying properly. Would you be able to take a look, @Pppery?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Czar-20221016051400-Announcements_banner_text_extraction; revision: 1129394950
+"Hey, I recently created an article on the video game character Rachel Amber from Life is Strange. Would anyone be interested in helping? 
+
+Current, major problems with the article:
+
+Section related to Life is Strange: Before the Storm needs massively expanded
+
+Poor grammar
+
+Trimming sourcing and fixing notes/references.
+
+Help would be appreciated!",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-KlayCax-20221017080700-Help_with_Rachel_Amber_article; revision: 1129394950
+My current AFD for Wadanohara and the Great Blue Sea has no participants and is nearing its second relisting. Just making this post as a reminder since it would be nice to not let this AFD go to waste.,question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sparkl-20221016201600-Pending_AFD; revision: 1129394950
+"Just an FYI--AfDs with little to no participation will still often get closed as a ""WP:SOFTDELETE"". It's not a big deal and it's basically treated as a WP:PROD.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Alyo-20221016202200-Sparkl-20221016201600; revision: 1129394950
+"Not applicable here, as articles with previous PRODs or AfDs are not eligible for another PROD / soft deletion.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Salvidrim!-20221017083200-Alyo-20221016202200; revision: 1129394950
+".mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+.mw-empty-elt+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}Main page: Wikipedia:WikiProject Video games/New article announcements
+ A listing of all articles newly added to the Video Games Wikiproject (regardless of creation date). Generated by v3.14 of the RecentVGArticles script and posted by PresN. Bug reports and feature requests are appreciated. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221015032000-New_Articles_(October_3_to_October_14); revision: 1129394950; review: automated announcement or formatting artifact
+"Articles deleted/removed: Draft:Gaming Philosophy, Draft:G5 Entertainment, Draft:Gum (Jet Set Radio), Draft:Mentally Obsessed Podcast, Draft:Relayer (video game), Draft:Bulwark Studios, Draft:One more multiverse, Draft:Untrusted, Draft:Curse of Aros, Draft:Dragon Quest XII, Draft:Kiril Mitev, Quantum Axcess, Draft:Shane R Coleman, Draft:Ben Koper, Draft:DUBIUM, Draft:Ensemble Stars! discography, Draft:Luis Soto (gamer), Race with Ryan, The Sandbox (blockchain platform), Draft:Zenith VR, Auto-Automatons, Crocbot, Cyborg Wart, Esports at the 2018 Asian Games – League of Legends, Draft:Eternal Fire (organization), Draft:Hermitcraft, Draft:Lonnie Randall, Mouser (Nintendo), Pom Pom (Mario), Pseudo-Sonic, Swoop (Mario)
+
+Articles redirected: Covenant (Halo), Halo Array, Performance Designed Products, Amy Rose, Star Wars: Rise to Power, Spam (video games), Super Mario Bros. Movie (2023 film), Need for Speed: Unbound, Rain (Mortal Kombat), Annoying Orange: Splatter Up, Shovel Knight (series), Sky and Wrench
+
+Categories deleted/removed: Nonviolent video games
+
+Templates deleted/removed: {{Agarest}}
+
+New categories: Anarchy Enterprises games by Waxworker, Big Ant Studios games by Waxworker, Cancelled Stadia games by Dimitry Shveyn 2004, Legacy Games games by Waxworker, Video games about ants by Waxworker, Wired Productions games by Waxworker, Video games about Satanism by Latiromazzaire, Aardman Animations video games by FlapjackRulez, Carbonated Games games by Waxworker, Chucklefish games by Waxworker, Code Mystics games by Waxworker, ImaginEngine games by Waxworker, Magenta Software games by Waxworker, Novarama games by Waxworker, Other Ocean Interactive games by Waxworker, Overwatch by Soulbust, Pronto Games games by Waxworker, Cohort Studios games by Waxworker, Hothead Games games by Waxworker, Relentless Software games by Waxworker, SkyBox Labs games by Waxworker, Slant Six Games games by Waxworker, ASC Games games by Waxworker, Arkedo Studio games by Waxworker, Buka Entertainment games by Waxworker, Curve Games games by Waxworker, Gaijin Entertainment games by Waxworker, Lesta Studio games by Waxworker, Nicktoon racing games by Gellerman, Puppy Games games by Waxworker, Reef Entertainment games by Waxworker, Size Five Games games by Waxworker, Targem Games games by Waxworker, Teyon games by Waxworker, Browser video game user templates by Catfurball, EAI Interactive games by Waxworker, Mobile video game user templates by Catfurball, Call of Duty user templates by Catfurball, Counter-Strike user templates by Catfurball, Shooting video game user templates by Catfurball, Air hockey video games by Trade (newly tagged - originally created 3 years ago)
+
+New templates: {{Annie Award for Outstanding Achievement for Character Animation in a Video Game}} by KinoFan2021, {{Moon Cresta video games}} by Andrybak, {{Rockstar Leeds}} by Maxtremus (newly tagged - originally created 11 months ago), {{Rockstar San Diego}} by Maxtremus (newly tagged - originally created 11 months ago), {{Unknown Worlds}} by OceanHok
+
+October 3
+
+ The Bloody Baron (edit talk links history) — Archrogue (was previously a redirect)
+
+ List of Meta Quest games (edit talk links history) — ViperSnake151
+
+ List of Prime Matter games (edit talk links history) — YouHateThePlayer (newly tagged – originally created 1 year ago)
+
+ Microsoft Flight Simulator 2000 (edit talk links history) — Mika1h (was previously a redirect)
+
+ Microsoft Flight Simulator 98 (edit talk links history) — Mika1h (was previously a redirect)
+
+October 4
+
+ GeoFS (edit talk links history) — OBR478 (newly tagged – originally created 9 years ago)
+
+ I Really Want to Stay at Your House (edit talk links history) — DovahDuck (was previously a redirect)
+
+ Moonbreaker (edit talk links history) — OceanHok
+
+ Sokpop Collective (edit talk links history) — ReneeWrites
+
+October 5
+
+ Sonic Adventure 2 The Trial (edit talk links history) — Pizzaplayer219 (was previously a redirect)
+
+ Combat: Task Force 121 (edit talk links history) — Angeldeb82
+
+ PlayStation VR2 (edit talk links history) — Darth Mike
+
+October 6
+
+ Need for Speed Unbound (edit talk links history) — Blaze Wolf (was previously a draft)
+
+ Airfight (edit talk links history) — Jpbowen (newly tagged – originally created 9 months ago)
+
+ Manon Gage (edit talk links history) — Cindeeeeeeee (newly tagged – originally created 1 month ago)
+
+ The Super Mario Bros. Movie (edit talk links history) — Animawiki29 (newly tagged – originally created 1 year ago)
+
+October 7
+
+ Augustus Sinclair (edit talk links history) — VideoGamePlaya (was previously a redirect)
+
+ Mario Kart 8 Deluxe – Booster Course Pass (edit talk links history) — DecafPotato (was previously a draft)
+
+ Plastic Wax (edit talk links history) — Reznor121 (newly tagged – originally created 14 years ago)
+
+ Sneaky Sasquatch (edit talk links history) — Respiciens
+
+October 8
+
+ Voice of Cards: The Beasts of Burden (edit talk links history) — ProtoDrake (was previously a redirect)
+
+October 9
+
+ Jessica Gonzalez (labor organizer) (edit talk links history) — CodeHitchhiker (was previously a draft)
+
+ Pirates of the Barbary Coast (edit talk links history) — Zxcvbnm
+
+I was out of town, so I didn't get to post this on Monday, but here we are! Waxworker continues to be very busy with categories. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221015032000-New_Articles_(October_3_to_October_14)-1; revision: 1129394950; review: automated announcement or formatting artifact
+Why is Need for Speed Unbound not rated?  I changed it to start class shortly after I moved it out of draft space.,question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221017131500-PresN-20221015032000; revision: 1129394950
+"@Blaze Wolf: Looks like the 1.0 bot never picked that change up? It's pretty flaky about double changes. My script goes off of what's on the 1.0 list, to avoid having to check the talk page of every article (and therefore take extra time), but it is a minor annoyance. I've been putting off fixing it until I get around to rewriting the whole thing to not rely on the 1.0 bot's records at all besides as a list of articles to investigate directly. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221017133500-Blaze_Wolf-20221017131500; revision: 1129394950
+Ah alright. Must be why it didn't pick it up since it was Draft class and then changed to Start class.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221017134100-PresN-20221017133500; revision: 1129394950
+"Main page: Wikipedia:WikiProject Video games/New article announcements
+ A listing of all articles newly added to the Video Games Wikiproject (regardless of creation date). Generated by v3.15 of the RecentVGArticles script and posted by PresN. Bug reports and feature requests are appreciated. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221017135900-New_Articles_(October_10_to_October_16); revision: 1129394950; review: automated announcement or formatting artifact
+"Articles deleted/removed: Draft:Donkey Kong spin-off film, Draft:Luigi's Mansion spin-off film, Draft:POLAR BEAR IN SPACE!, Draft:Paolo Andrea Di Pietro, Draft:Cromerty York, Stumble Guys, Draft:Beyond All Reason, Dedal, Gamepad translator, Draft:Pet Simulator X, Draft:Tristanrocko, Fragment Production, Draft:Lock, Shock, and Barrel
+
+Articles redirected: Covenant (Halo), Halo Array, Performance Designed Products, Amy Rose, Star Wars: Rise to Power, Spam (video games), Super Mario Bros. Movie (2023 film)
+
+Categories deleted/removed: Nonviolent video games
+
+Templates deleted/removed: {{Shovel Knight series}}
+
+New categories: Amplitude Studios games — Waxworker, Bluepoint Games games — Waxworker, Eat Sleep Play games — Waxworker, Video games developed in Myanmar — Phediuk, Incognito Entertainment games — Waxworker, JAMDAT Mobile games — Waxworker, Kabam games — Waxworker, Plarium games — Waxworker, Spiders (company) games — OceanHok, 1st Playable Productions games — Waxworker, Evolved Games games — Waxworker, Halo (franchise) spin-off games — Zxcvbnm, Playdigious games — Waxworker, Chillingo games — Waxworker, Engine Software games — Waxworker, I-play games — Waxworker, Mountain King Studios games — Waxworker, Oberon Media games — Waxworker, Action Forms games — Waxworker, EGames (video game developer) games — Waxworker, Video games scored by John Guscott — Gorilli09, 2K games — Mika1h, Alawar Entertainment games — Waxworker, Beatshapers games — Waxworker, Capybara Games games — Waxworker, Cypronia games — Waxworker, Eko Software games — Waxworker, Focus Multimedia games — Waxworker, Geolocation-based video games — Rosedaler, Grumpyface Studios games — Waxworker, Playrix games — Waxworker, Red Marble Games games — Waxworker, Tag Games games — Waxworker, Tru Blu Entertainment games — Waxworker
+
+New templates: {{Video game subscription services}} — CoolingGibbon, {{OlliOlli series}} — Gemini.skywalker (newly tagged - originally created 11 months ago)
+
+October 10
+
+ Focus Multimedia (edit talk links history) — Haggisinteractive (newly tagged – originally created 13 years ago)
+
+ Aleste Gaiden (edit talk links history) — KGRAMR (was previously a draft)
+
+ Imperial Esports (edit talk links history) — Lpjj8 (was previously a draft)
+
+ List of geolocation-based video games (edit talk links history) — Hughesdarren
+
+ Slate Esports (edit talk links history) — DreamyLucid
+
+ Super Mario Bros. 2 Advance (edit talk links history) — Pizzaplayer219 (was previously a redirect)
+
+ Super Mario Brothers 2 Advance (edit talk links history) — Pizzaplayer219 (was previously a redirect)
+
+October 11
+
+ PC Building Simulator 2 (edit talk links history) — DrJacoby12 (was previously a draft)
+
+ The Battle of Britain 2 (edit talk links history) — BOZ (was previously a redirect)
+
+ Adrian Hon (edit talk links history) — RedPurpleX (newly tagged – originally created 28 days ago)
+
+ List of augmented reality video games (edit talk links history) — Rosedaler
+
+ Wild Hearts (video game) (edit talk links history) — OceanHok
+
+ Zathura (video game) (edit talk links history) — Angeldeb82
+
+October 12
+
+ Twin-stick shooter (edit talk links history) — Zxcvbnm (was previously a draft)
+
+October 13
+
+ SteamVR (edit talk links history) — Rosedaler (was previously a redirect)
+
+ Kenzo Tsujimoto (edit talk links history) — Fixer88 (was previously a redirect – un-redirected 2 years ago)
+
+October 14
+
+ Until You Fall (edit talk links history) — FlyingKangeroo (newly tagged – originally created 7 months ago)
+
+ World's Edge (edit talk links history) — AmirVZz (was previously a redirect)
+
+October 15
+
+ End Game: Union Multiplayer (edit talk links history) — Taung Tan
+
+ Flintlock: The Siege of Dawn (edit talk links history) — OceanHok
+
+ PGA Tour 2K23 (edit talk links history) — Neverrainy
+
+ Steelrising (edit talk links history) — OceanHok
+
+October 16
+
+ Ara: History Untold (edit talk links history) — AmirVZz
+
+ Fingersoft (edit talk links history) — Jjanhone (newly tagged – originally created 1 year ago)
+
+ NCAA Basketball: Road to the Final Four 2 (edit talk links history) — Timur9008
+
+ Thymesia (edit talk links history) — TheMaskedChairman",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221017135900-New_Articles_(October_10_to_October_16)-1; revision: 1129394950; review: automated announcement or formatting artifact
+It looks like the bot detected nominating a redirect at RFD as creating an article. This is obviously incorrect.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221017153100-PresN-20221017135900; revision: 1129394950
+"Hmm, that's going to be hard to fix- the issue there is that the 1.0 bot is correct. Redirects aren't allowed to have content- if you add anything, then the class changes from redirect to unassessed. Unfortunately, the RfD tag counts as ""anything"", since it makes the article no longer redirect, and if you look at the page history, that edit as a ""Removed redirect"" tag as a result. I'll remove it, but I'm not sure it's reasonably fixable. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221017161900-Blaze_Wolf-20221017153100; revision: 1129394950
+Could the bot look to see if an RFD tag was added in the edit?,question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221017162400-PresN-20221017161900; revision: 1129394950
+Note that Fingersoft was deleted and then undeleted due to copyvio.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-IceWelder-20221017162400-PresN-20221017135900; revision: 1129394950
+"It's actually correct as-is: the article was never tagged for WPVG, and the tag was added this week for the first time. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221017162800-IceWelder-20221017162400; revision: 1129394950
+"There was a pretty strong consensus at Wikipedia_talk:WikiProject_Video_games/Archive_164#Discussion_on_quality_of_sources that certain types of journalism aren't suitable as source material. There's actually several interrelated issues, and it seemed there was a consensus that we should tackle them one at a time:
+
+Some sources just churn out too much content to be used as a measure of notability.
+
+Even our best sources will sometimes write a joke / opinion / clickbait article, which isn't good source material.
+
+Listicles are especially questionable for inclusion in a Wikipedia article.
+
+Focusing on the lowest hanging fruit, I think we are due for some guidance about the last point. Listicles and rankings should be used intelligently and sparingly, and we can add this to our manual of style. This is my first draft at summarizing our best practices:
+
+Sometimes a reliable source will compile a ranking of elements from a single game. This can show additional reception for that game as a whole. However, Wikipedia editors should avoid creating numerous spin-off articles about every individual game element, in accordance with Wikipedia's policies on due weight and what Wikipedia is not.
+If a reliable source ranks the characters from a single game or series, this may support a stand-alone list about that game's major characters (e.g.: ""List of characters from title""). A ranking should not be confused with significant reception for an individual character, unless the character is included in a broad editorial ranking of all characters across the game industry, or beyond. Also remember that Wikipedia is not a game guide, and articles should avoid summarizing rankings of game items, levels, or other game elements.
+
+I believe this is consistent with how we are currently using these types of sources. The shorter version:
+
+significant coverage for a game = article about a game
+
+significant coverage for a list of characters = article about a list of characters
+
+significant coverage for a character, separate from the game = article about the character, separate from the game
+
+This is just the start of a discussion, and it might take us some time to make sure we are getting this right.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Shooterwalker-20221019022600-Appropriate_use_of_sources; revision: 1129394950
+"A discussion at Talk:Warcraft_III:_Reforged#""Review-bombed""_?? could use more opinions. -",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Ferret-20221023031800-Warcraft_3_Reforged; revision: 1129394950
+"Just stumbled across The Cypher (video game). Followed some sources, tried to google stuff - classic sources like MobyGames or YouTube don't know a thing about the game, the studio(s) and/or the designer. Anyone willing to invest a few minutes to prove this game actually exists? Thanks and kind regards,",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Grueslayer-20221023081200-The_Cypher_(video_game); revision: 1129394950
+"The game exists. Took me two minutes to find the company website [1]. Says ""The Cypher which recently won two awards in the IICS International Summit Awards, and it's also a finalist in the AMI Festival and New Media Invision awards.
+Found nothing on Newspapers.com though",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Timur9008-20221023083700-Grueslayer-20221023081200; revision: 1129394950
+"Well, what made me suspicious is that from link 1 I find it hard to get to link 2. Like, what is the IICS International Summit or the AMI Festival? The New Media Invision Awards existed, but Google doesn't find a link to Cypher (which is not that strange, since it's the pre-internet era). Might well be the information on the title is not online, but I find it strange that MobyGames and YouTube don't know a thing about it. Kind regards,",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Grueslayer-20221023090900-Timur9008-20221023083700; revision: 1129394950
+"Hello. I was wondering if we got Persona 5 and Persona 5 Strikers up to GA quality, Would Persona (series) be eligible to be the main page in a new Good Topic for Persona? Or would it rather fall into a larger SMT Topic.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221019162000-Persona_as_a_Good_Topic; revision: 1129394950
+"If you are including Strikers, the other spin-offs would all need to be included.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-(Oinkers42)-20221019163100-PerryPerryD-20221019162000; revision: 1129394950
+"In that case remove strikers, But would it be its own GT?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221019163300-(Oinkers42)-20221019163100; revision: 1129394950
+"I would say the mainline Persona series could be a GT (presuming Persona 5 got promoted). Persona 5 could potentially be its own topic later on as well (with Strikers, the television series, the Dancing game, the character list, and the characters).",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-(Oinkers42)-20221019164200-PerryPerryD-20221019163300; revision: 1129394950
+You are forgetting items such as list of Persona 5 characters.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Lee_Vilenski-20221019164600-(Oinkers42)-20221019164200; revision: 1129394950
+"The larger Megami Tensei topic would be huge, so I think it would make perfect sense to do a separate Persona topic - although a large amount of Megami Tensei articles are already at GA/FA, so maybe that's doable, too. I would love to help, but not only have I not kept up with all the Persona spin-offs, I also have had much less time to dedicate to Wikipedia recently.-",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Alexandra_IDV-20221019201300-Persona_as_a_Good_Topic; revision: 1129394950
+"I think a Persona GT would be doable, but we really should keep it to main series only. There's also the small fact that due to the amount of spin-offs/related media/character stuff that got their own substantial articles, some of the Persona games could have GTs themselves, P4 in particular. -",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ProtoDrake-20221019202800-Alexandra_IDV-20221019201300; revision: 1129394950
+"I'd be up for helping out on this - I have a couple SMT items I've promoted/attempted to try and get that series to GT. If we were to do say, Persona 5, you'd want the following items:
+
+Persona 5, Persona 5 Strikers, List of Persona 5 characters, Persona 5: Dancing in Starlight , Persona 5: The Animation, Joker, Ann Takamaki, Goro Akechi, Makoto Niijima, and arguably Persona Q2: New Cinema Labyrinth. A similar amount of articles for Persona 3 and 4. That would make for a good topic, and if anyone does want to make some GAs where there aren't, I can probably help.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Lee_Vilenski-20221020072400-Persona_as_a_Good_Topic; revision: 1129394950
+@Lee Vilenski: The Joker you linked to is a disambig page. I'd assume you meant to link to Joker (Persona).,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221024125500-Lee_Vilenski-20221020072400; revision: 1129394950
+"Articles deleted/removed: Draft:StreamElements, List of CryEngine games, List of GameMaker games, List of Ren'Py games, List of RenderWare games, List of Sierra's Creative Interpreter games, List of Unity games, List of Unreal Engine games, List of games using CryEngine, Gamecube technical problems, Draft:Jorien ""Sheever"" van der Heijden, NPDP Gamecube, Draft:Playgendary, Raikou(Pokemon), Draft:Rockstar Foxy, Draft:Unusual Findings, Hedgehog Launch, This Is Pool, Draft:Barkythedeaddog, Draft:Ice Age: Scrat's Nutty Adventure, Jisei (video game series)
+
+Articles redirected: BetterDiscord, Rockstar Games Social Club, Manon Gage, Marvel Snap, Nintendo Pictures, Rainbite, Sheeva, SteamVR, The Garfield Show: Threat of the Space Lasagna, Sonic Adventure 2 The Trial
+
+Categories deleted/removed: Video games scored by theMeatly
+
+New categories: Presage Software games — Waxworker, Xing Entertainment games — Waxworker, Black Pearl Software games — Waxworker, NMS Software games — Waxworker, Red Storm Entertainment games — Waxworker, Sixteen Tons Entertainment games — Waxworker, Viva Media games — Waxworker, 10tacle Studios games — Waxworker, Aeria Games games — Waxworker, Cosmigo games — Waxworker, Gamigo games — Waxworker, Lavastorm games — Waxworker, Level Up! Games games — Waxworker, Reakktor Studios games — Waxworker, StormRegion games — Waxworker, 7 Studios games — Waxworker, Morning Star Multimedia games — Waxworker, Paintball video games — Waxworker, Pipe Dream Interactive games — Waxworker, Toei Animation video game projects — Primefac (newly tagged - originally created 6 years ago), Zipper Interactive games — Waxworker, Bizarre Creations games — Waxworker, Lucid Games games — Waxworker, Petroglyph Games games — Waxworker, Strange Flavour games — Waxworker
+
+New templates: {{Masahiro Sakurai}} — Mika1h, {{Rick Goodman}} — The Negotiator (newly tagged - originally created 15 years ago), {{Ken Griffey Jr. video games}} — Maxtremus (newly tagged - originally created 1 year ago)
+
+October 17
+
+ Moonscars (edit talk links history) — The Night Watch (was previously a draft)
+
+ PBA Tour Bowling 2 (edit talk links history) — Timur9008
+
+ Trax (video game) (edit talk links history) — Tkgood (newly tagged – originally created 7 months ago)
+
+October 18
+
+ Borderlands Legends (edit talk links history) — Angeldeb82 (was previously a redirect)
+
+October 19
+
+ Haunted Hollow (edit talk links history) — Angeldeb82
+
+ Tomb of the Mask (edit talk links history) — SMBMovieFan (was previously a draft)
+
+October 20
+
+ Dezaemon 3D (edit talk links history) — Psi-Locked (was previously a redirect)
+
+ Gotcha! Extreme Paintball (edit talk links history) — Dccs120 (newly tagged – originally created 6 months ago)
+
+ Le Vamp (edit talk links history) — Angeldeb82
+
+ Morning Star Multimedia (edit talk links history) — Videogamefanatic5471 (newly tagged – originally created 6 years ago)
+
+ Mortal Kombat: Onslaught (edit talk links history) — Koavf
+
+ Mortal Kombat Mobile (edit talk links history) — Koavf (was previously a redirect)
+
+ Silent Hill 2 (upcoming video game) (edit talk links history) — TheDeviantPro
+
+October 21
+
+ The Croods (video game) (edit talk links history) — Angeldeb82 (was previously a redirect)
+
+ Sid Meier's Ace Patrol (edit talk links history) — Angeldeb82
+
+ Silent Hill f (edit talk links history) — Ryan York
+
+October 22
+
+ Endzone: A World Apart (edit talk links history) — NinjaRobotPirate
+
+ Legend of the Blademasters (edit talk links history) — Timur9008
+
+ Vampires in games (edit talk links history) — BD2412 (newly tagged – originally created 2 years ago)
+
+October 23
+
+ List of video game podcasts (edit talk links history) — TipsyElephant (was previously a draft – moved out 8 months ago)
+
+ Music of Sonic the Hedgehog 1 and 2 (edit talk links history) — Shadowboxer2005 (was previously a draft)
+
+ Nikke: Goddess of Victory (edit talk links history) — Lol1VNIO
+
+ Rayman Fiesta Run (edit talk links history) — Angeldeb82 (was previously a redirect)
+
+ Sid Meier's Ace Patrol: Pacific Skies (edit talk links history) — Angeldeb82
+
+ Top Rank Tennis (edit talk links history) — Timur9008",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221024141700-New_Articles_(October_17_to_October_23)-1; revision: 1129394950; review: automated announcement or formatting artifact
+There is a requested move discussion at Talk:Wraparound (video games)#Requested move 18 October 2022 that may be of interest to members of this WikiProject.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Asukite-20221026162100-Requested_move_at_Talk:Wraparound_(video_games)#Requested_move_18_October_2022; revision: 1129394950
+"Specifically individual game pages, so not including pages about companies or systems. I know some series have a single page for all of their games, that's fine to include. Is there an easy way to see this with categories?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-2603:80A0:1102:FEA0:C5D3:72B5:B765:80AE-20221025193200-How_many_video_game_pages_does_Wikipedia_have?; revision: 1129394950
+"Unfortunately this is not easy to see with categories. You could look for articles in Category:WikiProject Video games articles however that is most definitely not all of them as there are most likely some articles that haven't been tagged as being of interest to this WikiProject (as seen by articles that say ""(newly tagged – originally created X ago)"" in the weekly new article announcements post that PresN creates) that would be very difficult, if not impossible, to find without knowing of the game prior.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221025193700-2603:80A0:1102:FEA0:C5D3:72B5:B765:80AE-20221025193200; revision: 1129394950
+"If we assume that all articles on individual video games are in Category:Video games by year and its subcategories, then there are ~27600 articles according to petscan. There's probably some that aren't categorized, but that's a good estimate. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221025203500-Blaze_Wolf-20221025193700; revision: 1129394950
+"Wikidata to the rescue :) Depends a bit how you want to count, but Wikidata says 27,522. Some caveats:
+
+That’s a query drilling down the class tree under video game (Q7889), so it will include expansion add-on (Q209163), video game compilation (Q16070115) and several other perhaps less desirable classes
+
+Won’t include articles like A View to a Kill whose item is classified as Wikimedia article covering multiple topics (Q21484471) (that should be 16 of them)
+
+Won’t include items that are not classified at all, obviously, but that should not be many either
+
+Won’t include series-articles that discuss the individual games (as they are video game series (Q7058673))
+
+Will likely include items that are linked to redirects (no idea how many that would be)
+
+#title: Items that are a subclass of Q7889 (video game) with a sitelink to the English Wikipedia
+SELECT DISTINCT ?item ?itemLabel ?article WHERE {
+  ?item (wdt:P31/(wdt:P279*)) wd:Q7889.
+  ?article schema:about ?item;
+    schema:isPartOf <https://en.wikipedia.org/>.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language ""[AUTO_LANGUAGE],en"". }
+}
+Click here to launch the Wikidata query
+Hope that helps",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Jean-Frédéric-20221027194600-2603:80A0:1102:FEA0:C5D3:72B5:B765:80AE-20221025193200; revision: 1129394950
+"I started a discussion at Talk:Thea: The Awakening#Template in reception about whether {{Video game reviews}} is necessary in the reception.  It's normally a quiet article, so it probably could use opinions from outsiders.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-NinjaRobotPirate-20221028175800-Putting_a_box_around_the_Metacritic_score; revision: 1129394950
+"Hello to y'all on the page! I recently added a bunch of sources at the talk page of Loriciel, which can be useful to expand the page for those interested.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-KGRAMR-20221029021300-Loriciel; revision: 1129394950
+"1: Should I move every article that has its own subcategory (e.g. BloodRayne (video game), Castlevania) out of the parent category? This is usually how we do things, but sometimes parent categories are used to keep track of every entry in a subcategory as well. Right now the parent category is a mix between both, and while I've already started moving pages to subcategories I figured I should get consensus before I do that with the rest. 
+
+2: Is it okay if I remove every video game from this category that has vampires but isn't about them in a meaningful way (such as Brawlhalla and The Sims)?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ReneeWrites-20221029142600-A_couple_of_questions_about_Category:Video_games_about_vampires; revision: 1129394950
+"Definitely on #2. The category should be only for games that, if you were to write a concise plot or gameplay summary, you could not avoid mentioning vampires. A game that includes a vampire among a huge roster of characters does not met that.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221029143900-ReneeWrites-20221029142600; revision: 1129394950
+"Alright, thanks. I removed them from the category.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ReneeWrites-20221029172700-Masem-20221029143900; revision: 1129394950
+There is a requested move discussion at Talk:Golf (Atari 2600)#Requested move 30 October 2022 that may be of interest to members of this WikiProject.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-UtherSRG-20221030031800-Requested_move_at_Talk:Golf_(Atari_2600)#Requested_move_30_October_2022; revision: 1129394950
+"How are the power meter ratings supposed to be read? They look like this:
+
+G
+P
+C
+T
+
+3.4
+3.0
+3.2
+3.0
+
+There are several different ways they are currently used in articles. Super Metroid calculates an average 4.7 + 3.8 + 4.6 + 4.6 = 17.7 / 4 = 4.425/5, Yoshi's Island adds up the scores 4.4 + 3.8 + 4.2 + 4.2 = 16.6/20, Virtual Boy Wario Land uses only the last number 4.3/5.",question,"AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Mika1h-20221030130300-Nintendo_Power,_power_meter_ratings; revision: 1129394950"
+I noticed GameRankings also used the average method. Super Metroid has the 4.425 score: [2] -,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Mika1h-20221030131000-Mika1h-20221030130300; revision: 1129394950
+"I'd take the average of all scores and round to the nearest decimal point. Once you get past a single decimal point, review scores lose all coherent meaning - it's not even possible to differentiate between a 4.425 and 4.435 game.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Zxcvbnm-20221030142600-Mika1h-20221030131000; revision: 1129394950
+"GPCT represents thematic categories (Graphics and sound, Play control, Challenge, Theme and fun[3]), not individual reviewers, so they should not be averaged.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Czar-20221031031400-Zxcvbnm-20221030142600; revision: 1129394950
+"I agree with Czar that averaging these numbers is not appropriate. I don't think addition is particularly appropriate either? It's an interpretation of the numbers which they aren't designed for, and they might simply just not fit well in a handy scores box. ~",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Maplestrip-20221031081700-Czar-20221031031400; revision: 1129394950
+"A typical single-score video game review factors in all those things, so I still think an average is appropriate. I don't see how that changes things at all.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Zxcvbnm-20221031121400-Maplestrip-20221031081700; revision: 1129394950
+"Averaging scores like this is us saying that the graphics, gameplay, challenge and theme are of equal importance and that the sub-scores should be weighted equally -  we're by doing this going beyond just summarizing what the source said, and I do not find this at all appropriate. If you can't fit all four individual sub-scores into a review score table, I think the solution would be to only represent the review in prose, not in the table.-",suggestion,"AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Alexandra_IDV-20221031133500-Nintendo_Power,_power_meter_ratings; revision: 1129394950"
+"I agree with Alexandra. Explaining the various breakdowns of the NP review is really not that important, and if it needs to be covered it should be done in prose. Trying to convert their system into a single number is a job for Metacritic or the like, not Wikipedia.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-David_Fuchs-20221031155100-Alexandra_IDV-20221031133500; revision: 1129394950
+3rd'ing this. WP:CALC does not apply here; both averaging and addition fall under SYNTH because we as editors are imposing an equal weighting that does not exist in the original source. Use prose or an external source's (e.g. MC) summary score.,suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Axem_Titanium-20221031163700-David_Fuchs-20221031155100; revision: 1129394950
+"For the past two days, I have composed a draft that is a list of notable computer games known to support any of the Gravis UltraSound cards. The cards, which were released during the 1990s PC sound card war (which it eventually lost), were notable for their unusual ability to synthesize real-world sound recordings as a basis for musical instruments, and this list is supposed to give an idea of how successful and influential the brand was. Of course, it was left in the dust by Creative Labs' sound cards, but it was compatible with a hundred or so games.
+
+As I was putting the list together, I ran into difficulties regarding the structure of the list and the criteria. I debated whether to list only the titles that are compatible with the original model of Gravis UltraSound, but decided to include any game regardless of the UltraSound model due to lack of information about which cards the games supported. I also considered whether the list should make specific whether the game supports the original UltraSound, but then ruled it out for practically the same reasons. The next issue I am still debating on is how to treat Windows games. Although I am inclined to including them, my issue is which those that ""support any Windows-compatible sound card"". Such wording would suggest that the games were written for DirectX, or they had drivers for all the recognizable card brands of the time. Either way, I am more comfortable listing games whose requirements directly mention Gravis UltraSound, rather than leaving it up for interpretation. I was inspired by the article List of MT-32-compatible computer games to write it, but my draft is of considerably higher quality and thus far more likely to pass a review, using secondary sources whenever possible. However, I am somewhat demotivated by the criteria issue and the thought that my list article might itself still not be noteworthy enough. Should I just continue the draft and not worry about notability?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-FreeMediaKid!-20221022063000-List_of_games_with_Gravis_UltraSound_support; revision: 1129394950
+"Wouldn't this be non-encyclopedic cross-categorization? See this bundled AfD of ""games by engine"", which was recently closed as delete.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Woodroar-20221022205900-FreeMediaKid!-20221022063000; revision: 1129394950
+"That is what I was talking about when I said notability. I was not sure whether it would be a genuine, useful list or whether it would be as useless as if the draft were a list of games that support Nvidia cards, hence my losing the nerve to continue. Should I nominate the MT-32 list article for deletion?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-FreeMediaKid!-20221022235800-Woodroar-20221022205900; revision: 1129394950
+"I thought about the AfDs you referenced. While it does not help me decide whether my drafted list is acceptable, I can see myself being involved in the discussion and siding in favor of deleting the lists, while also defending List of game engines. The reason would be that I think the ""games by engine"" lists could simply be replaced by categories. Lists are frustrating because they sometimes blur the line between encyclopedic and ""listicle"".",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-FreeMediaKid!-20221023011200-FreeMediaKid!-20221022235800; revision: 1129394950
+"If you are able to write a decent section of well-cited prose about why this technology is particularly noteworthy for those video games, then that would establish notability well. ~",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Maplestrip-20221024121000-FreeMediaKid!-20221022063000; revision: 1129394950
+"Please see the 5 AFD discussions starting at here and related discussions linked from here. My instinct is that a ""list of games that support [some tech/hardware]"" is not going to get broad support as appropriate for inclusion.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Axem_Titanium-20221027162200-FreeMediaKid!-20221022063000; revision: 1129394950
+"I have been considering another draft article about games that use ray-traced graphics. In retrospect, that subject seems far more likely to pass a review than either the UltraSound or MT-32 article, the latter of which I have considered for deletion. I have already abandoned the UltraSound one. Unlike the two sound cards, the idea of ray-traced games spans decades, and the constant media buzz surrounding it is much louder. It has even been described as the ""holy grail of gaming graphics"" (Apress, 2021). There is the possibility of the subject becoming irrelevant once all the current games implement ray tracing, rendering the list inappropriate, but with technology seemingly doubling in power every two years, ray tracing itself may be replaced by something superior. Now that I have said that, it may be better to change the draft subject to ""Ray tracing in video games"", and I may still be able to write a prose decent enough to stand on its own. Either way, ray tracing in video games sounds like a noteworthy topic.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-FreeMediaKid!-20221101180200-List_of_games_with_Gravis_UltraSound_support; revision: 1129394950
+"Articles deleted/removed: K.S.-n-Kickin, Draft:Goblin Stone, Draft:Launched! (game), Draft:Reimon, Draft:The Mensional (video game), Draft:Virtual production technology, Draft:BENDIS Games, Draft:Chun Li (Fortnite Skin), Draft:Conflict of Nations: World War III, Draft:Enhydra Games, New Nintendo Switch, Draft:Chain Blaster, Draft:Dodgeball Academia, Hanging with Friends, Wadanohara and the Great Blue Sea
+
+Articles moved to draft space: Marvel Snap
+
+Templates deleted/removed: {{Music of Sonic the Hedgehog}}
+
+New categories: Nintendo Switch console exclusives — Redquil, PlayStation characters — Bmona12, Playstation 5 console exclusives — Redquil, Monster Games games — Waxworker, Vampire: The Masquerade video games — ReneeWrites, Palace Software games — Waxworker, Riverhillsoft games — Waxworker, Shrapnel Games games — Waxworker, Suba Games games — Waxworker, SuperVillain Studios games — Waxworker, Video games about cannibalism — ReneeWrites, Kodiak Interactive games — Waxworker, Ripcord Games games — Waxworker, Ronin Entertainment games — Waxworker, Silent Software games — Waxworker, Big Huge Games games — Waxworker, Brash Entertainment games — Waxworker, Grove Street Games games — Waxworker, Page 44 Studios games — Waxworker, Robot Entertainment games — Waxworker, Unknown Worlds Entertainment games — Waxworker, Westlake Interactive games — Waxworker, CyberFlix games — Waxworker, Demiurge Studios games — Waxworker, HandyGames games — Waxworker, Blendo Games games — Waxworker, High Score Productions games — Waxworker
+
+October 24
+
+ D.I.C.E. Award for Outstanding Achievement in Art Direction (edit talk links history) — MR.RockGamer17
+
+ Inside-Cap (edit talk links history) — Cyop
+
+October 25
+
+ Deer Hunter (1997 video game) (edit talk links history) — Timur9008
+
+ Through the Darkest of Times (edit talk links history) — Sennecaster (was previously a draft)
+
+ Bentley's Hackpack (edit talk links history) — Legoless (was previously a redirect)
+
+ Kornhaber Brown (edit talk links history) — Kingjames22 (was previously a userpage – moved out 6 years ago)
+
+October 26
+
+ 2K Drive (edit talk links history) — Angeldeb82 (was previously a redirect)
+
+ Alone in the Dark (upcoming video game) (edit talk links history) — Bioshockdude
+
+ Octopath Traveler II (edit talk links history) — Sergecross73 (was previously a userpage)
+
+ Roadwarden (edit talk links history) — Asukite (was previously a draft)
+
+ Star Wars: Force Collection (edit talk links history) — Angeldeb82
+
+ Terra Invicta (edit talk links history) — Nomader
+
+October 27
+
+ Archangel (2017 video game) (edit talk links history) — BMA-Nation2020 (was previously a draft)
+
+ Premier Manager 2000 (edit talk links history) — Jm6852 (was previously a draft)
+
+ 2022 Overwatch League playoffs (edit talk links history) — Pbrks
+
+October 28
+
+ Clash: Artifacts of Chaos (edit talk links history) — Mondopiri
+
+ Golf (1980 video game) (edit talk links history) — Cat's Tuxedo (was previously a redirect)
+
+ Wolfe Glick (edit talk links history) — Mickeylonglegs (was previously a draft)
+
+October 29
+
+ Splatoon (manga) (edit talk links history) — DecafPotato (was previously a redirect)
+
+ Johanna Pirker (edit talk links history) — Ericssonrower (was previously a draft)
+
+ No Place for Bravery (edit talk links history) — A.WagnerC
+
+ SIGNALIS (edit talk links history) — Mbrickn (was previously a draft)
+
+ Undead Line (edit talk links history) — KGRAMR (was previously a draft)
+
+October 30
+
+ Aliens: Dark Descent (edit talk links history) — OceanHok
+
+ Babe and Friends (edit talk links history) — Vrxces
+
+ List of playable characters in the WWF/E video games (edit talk links history) — Xanarki
+
+ Meta Quest Pro (edit talk links history) — ViperSnake151 (newly tagged – originally created 20 days ago)
+
+ Rhino Rumble (edit talk links history) — Vrxces
+
+ Tech Deck Skateboarding (edit talk links history) — Vrxces
+
+ The Demon Artist, Kazuma Kaneko (edit talk links history) — Unclebenny 713 (newly tagged – originally created 1 month ago)
+
+ The International 2022 (edit talk links history) — Dissident93 (was previously a redirect)
+
+ Everwild (video game) (edit talk links history) — Ryan York",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221031203000-New_Articles_(October_24_to_October_30)-1; revision: 1129394950; review: automated announcement or formatting artifact
+Why is Hellblade: Senua's Sacrifice here? It was made years ago and doesn't have any info like 'newly tagged'.,question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-DecafPotato-20221031205400-PresN-20221031203000; revision: 1129394950
+In fact neither the article not talkpage have edits or log entries this month...,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Salvidrim!-20221031221900-DecafPotato-20221031205400; revision: 1129394950
+Maybe it's related Senua's Saga: Hellblade II which is redirected to that page. -,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Mika1h-20221031223900-DecafPotato-20221031205400; revision: 1129394950
+"Yep, 1.0 bot listed it as ""Senua's Saga: Hellblade II renamed to Hellblade: Senua's Sacrifice."" Looks like it's because the article was created on the 30th, actually moved to Draft:Senua's Saga: Hellblade II the same day, and then a redirect created in its place - so when the 1.0 bot said it was moved to that new title, my script checked and saw that the first revision of the Hellblade II page was on the 30th and that it redirects to Hellblade 1, which matches, so my script didn't look deeper. Unfortunately, this kind of corner case error just keeps happening in different ways, and will continue until I rewrite the whole thing (again) to not trust anything the 1.0 bot says and just take it as a list of articles to investigate- the 1.0 bot habitually misses things if an article is created and moved on the same day. (For the curious: the reason my script trusts the bot is because otherwise it needs to do about 10x the number of page loads to check article/talk page histories, e.g. take 10x the time to run, and in ~95% of cases the bot is right, and most of the rest I have catches for. Unfortunately the last 1-2% aren't solvable without thoroughly verifying the edit histories of every article, because if I knew which articles I couldn't trust the bot on then I wouldn't have an issue in the first place.) Tl;dr: thanks, removed. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221101023200-Mika1h-20221031223900; revision: 1129394950
+"Could someone please change SIGNALIS to Signalis, a quick look at the reference section shows that the that sources are not using the allcaps version.-",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-65.92.162.81-20221101202500-PresN-20221031203000; revision: 1129394950
+"Another editor did this for you, which was the right approach regardless due to WP:ALLCAPS.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221101204000-65.92.162.81-20221101202500; revision: 1129394950
+"Do we really want to go down that road of categorizing according to ""console exclusives""?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221101204000-PresN-20221031203000; revision: 1129394950
+"I'm not opposed to it, myself. I don't think it's going to be a very long road. Considering that there will be a number of categories such games won't have the risk for WP:OVERCAT seems very small. You can also make the argument that these categories are both defining and have encyclopedic relevance (considering how important having good exclusives is for a console's success).",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ReneeWrites-20221101221300-Sergecross73-20221101204000; revision: 1129394950
+"Exclusives are most certainly important. But this ""console exclusive"" is basically ""exclusive with exceptions"". And we've generally tried to veer away from this world of exceptions because of the way things get murky in practice. Are cross-gen PS4/PS5 releases console exclusives? Does console exclusive really matter for a game released on Steam, iOS, android, and Stadia? Etc etc.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221101223200-ReneeWrites-20221101221300; revision: 1129394950
+"Yeah, I misunderstood what the discussion was about. I thought I was talking about, basically, Category:Nintendo Switch-only games, but the new category has a looser definition of ""exclusive"".",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ReneeWrites-20221101225900-Sergecross73-20221101223200; revision: 1129394950
+"I agree that this category would be hard to maintain correctly and doesn't have a solid definition on what is specifically a ""console exclusive"". Especially since some games are console exclusive for a while and then are ported to other consoles or platforms.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221101230200-ReneeWrites-20221101225900; revision: 1129394950
+"I've already removed this from articles where the game was on PC and one console. This is excessively burdensome and confusing to readers to say ""It's on multiple platforms, but only ONE console."", and it's unclear if that's because it's actually some sort of exclusive (with a specific exclusion deal) or simply wasn't released on other platforms for various reasons. Nuke these. -",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Ferret-20221102125800-Blaze_Wolf-20221101230200; revision: 1129394950
+"The PS5 one already is, so it looks like it's been done for you.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Phediuk-20221102133800-Blaze_Wolf-20221102130100; revision: 1129394950
+There's also the NX (Nintendo Switch) one.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221102135000-Phediuk-20221102133800; revision: 1129394950
+"Hello everyone,
+
+I am trying to create a page for an Australian videogame company. Can an experienced editor check my Draft? I have copied the format from Alphabet Inc. Thanks",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Kc-morgenstern-20221101035400-Draft:ICandy_Interactive_Limited; revision: 1129394950
+"There's over 30 references in the article but most of it looks like routine business coverage as described by WP:NCORP, which would not confer notability. There's also a number of references that fall under WP:NCRYPTO. Basically, I'm having trouble separating the wheat from the chaff. Can you please share your three very best sources for why you believe your company is notable? (Thank you for the COI declaration, btw, we appreciate that you are up front about that.)",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Axem_Titanium-20221101093900-Kc-morgenstern-20221101035400; revision: 1129394950
+"Hello again!
+So, I am not an expert but I think these three are the best references:
+
+1- https://sea.ign.com/sea-indie-games/181737/news/largest-southeast-asian-video-game-company-icandy-just-became-a-whole-lot-bigger
+
+2 - https://themarketherald.com.au/icandy-interactive-asxici-seeks-approval-for-share-buy-back-2022-05-24/
+
+3 - https://vulcanpost.com/770212/icandy-interactive-lemon-sky-acquisition-games-metaverse/
+
+Other than these, I would like to mention that the company is literally the largest gaming company in Australia, New Zealand, Southeast Asia. I read that notability is not inherited, but iCandy is the parent company of many well-known subsidiaries that have worked with other gaming companies behind major videogames. The article will certainly be improved over time. Thank you",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Kc-morgenstern-20221102114700-Axem_Titanium-20221101093900; revision: 1129394950
+"All three of these sources sound like rewritten press releases to me. The Vulcan Post source is the most obvious, because they link to the press release and you can compare the bullet points in the article, but the others have a similar by-the-numbers PR feel. I would expect organic third-party coverage to dig into the company's history, include details about (and maybe quotes from) their founder(s)/creator(s), but also feel like a journalist is telling a story.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Woodroar-20221102130800-Kc-morgenstern-20221102114700; revision: 1129394950
+"I agree with Woodroar that these three sources still feel like routine corporate announcements (see this section, ""standard notices, brief announcements, and routine coverage, such as the expansions, acquisitions, mergers, sale, or closure of the business""). You are correct that notability is not inherited. That means that the development studio of a notable video game is not automatically notable and the parent company that controls a notable development studio is not automatically notable. Some of the games or studios that iCandy controls may be better candidates for articles than the parent company itself. Please also consider that an article about your company isn't necessarily a good thing.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Axem_Titanium-20221102181200-Kc-morgenstern-20221102114700; revision: 1129394950
+"Categories like Category:2010s interactive fiction, Category:2010s fighting video games, and Category:2010s horror video games were recently made and seem like overkill. It would require a 100% recategorization of all games that are currently categorized by genre, for unclear reasons, and seems totally unnecessary. Thoughts?",question,"AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Zxcvbnm-20221105124400-""Genres_by_decade""_categories_unnecessary?; revision: 1129394950"
+"They are not all new, but yes they should be removed as non-encyclopedic cross-categorizations.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-TarkusAB-20221105162300-Zxcvbnm-20221105124400; revision: 1129394950
+"I agree. Games are recognized by their decade/year, and by their genre, but unlike films where the decade/genre is common (like Category:1990s action films) the same rationale doesn't work here.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Masem-20221105163300-TarkusAB-20221105162300; revision: 1129394950
+"I agree that they should be removed, but I think ""it would require a recategorization of all games"" isn't a valid reason. While it is a significant amount of (likely unnecessary) work, something being a lot of effort shouldn't be used as a reason to not improve the encyclopedia.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-DecafPotato-20221105184900-Zxcvbnm-20221105124400; revision: 1129394950
+"Articles deleted/removed: Draft:Hog rider (various supercell games), Draft:LT.Smash, Draft:Morshu, Rush Gaming Universe, Draft:Untitled AEW video game, Draft:Wrestling Empire, Draft:Glass Bottom Games, Draft:Institute for Higher Knowledge, Draft:Neko Ghost, Jump!, Draft:The Bred Kingdom, Draft:The Living Tombstone, Angel Kids, Eternal Lands, Arkham World, Draft:Time Raiders, Draft:Gameclub, Kurogane (company), Tomb of the Mask, Draft:WWE 2K Creation Suite
+
+Articles redirected: Sindel, Super Mario Bros. 2 Advance, Super Mario Brothers 2 Advance, Yoshi's Adventure, Stuff packs for The Sims 2, Bigmode Games
+
+Categories deleted/removed: Video games about brothers
+
+Templates deleted/removed: {{Mystery Case Files}}
+
+New categories: Video games developed by David Szymanski — Partofthemachine, Video games about wolves — Ali17082001, Star Wars: Knights of the Old Republic developers — Vexedsmuggery, Star Wars: Knights of the Old Republic video games — Vexedsmuggery, Video games scored by Stephan Schütze — Gorilli09, Video games set in Grenada — Vesperius, Video games set in Saba — Vesperius, Skydance Interactive games — BMA-Nation2020, Star Wars video game navigational boxes — Vexedsmuggery, Aqua Pacific games — Waxworker, Liquid Entertainment games — Waxworker, Video game companies disestablished in 2022 — IceWelder, Video games scored by Matt Furniss — Cat's Tuxedo
+
+New templates: {{Pokémon drafts}} — DecafPotato (newly tagged - originally created 1 month ago), {{Bend Studio}} — Maxtremus (newly tagged - originally created 11 months ago), {{Republic Commando series}} — Vexedsmuggery
+
+October 31
+
+ 3D Pocket Pool (edit talk links history) — Vrxces
+
+ Spirou: The Robot Invasion (edit talk links history) — Vrxces
+
+ Trouballs (edit talk links history) — Vrxces
+
+ D.I.C.E. Award for Outstanding Achievement in Audio Design (edit talk links history) — MR.RockGamer17
+
+November 1
+
+ Everyeye.it (edit talk links history) — ReneeWrites
+
+ Spud's Quest (edit talk links history) — Lanzlink (was previously a draft)
+
+ Don King Boxing (edit talk links history) — Angeldeb82 (was previously a redirect)
+
+ Wonderful Dizzy (edit talk links history) — Lanzlink
+
+ BeyondSims (edit talk links history) — ClydeFranklin (was previously a redirect)
+
+November 2
+
+ InternetHulk (edit talk links history) — Pbrks
+
+November 3
+
+ 2022 Overwatch League Grand Finals (edit talk links history) — Pbrks
+
+ Carnival Games: Mini-Golf (edit talk links history) — Angeldeb82 (was previously a redirect)
+
+ Quackity (edit talk links history) — Célestin Denis (was previously a redirect)
+
+ Xtreme Wheels (edit talk links history) — Vrxces
+
+ Nintendo Pictures (edit talk links history) — Ponyo (was previously a redirect)
+
+November 4
+
+ King of Casino (edit talk links history) — KGRAMR (was previously a draft)
+
+ Moirai (video game) (edit talk links history) — Vrxces
+
+ SypherPK (edit talk links history) — Célestin Denis
+
+November 5
+
+ Cool Bricks (edit talk links history) — Vrxces
+
+ Merlin (video game) (edit talk links history) — Vrxces
+
+ Vlad Panchenko (edit talk links history) — Cahdigirl (was previously a userpage)
+
+November 6
+
+ List of Doctor Who video games (edit talk links history) — AnonUser1
+
+ RAC7 (edit talk links history) — LuxembourgLover
+
+ Razer Edge (edit talk links history) — Radom1967
+
+ Third World (video game) (edit talk links history) — Timur9008
+
+ Toshinari Fukamachi (edit talk links history) — Harushiga
+
+ World Poker Tour (video game) (edit talk links history) — Angeldeb82",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221107134800-New_Articles_(October_31_to_November_6)-1; revision: 1129394950; review: automated announcement or formatting artifact
+"""was previously a userpage"" that's a new one. Also, just sort of spitballing here but, if Draft:The Living Tombstone were to actually make it into mainspace, would it actually be of relevance to this Wikiproject? As far as I know the only thing they have relating to video games is their cover of Jump Up Superstar from Super Mario Odyssey.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221107142700-PresN-20221107134800; revision: 1129394950
+perhaps transfered from sandbox directly?,question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221107154400-Blaze_Wolf-20221107142700; revision: 1129394950
+"Yes, ""was previously a userpage"" is a counterpart to ""was previously a draft"". It's basically saying that the article previously existed outside of mainspace, and got moved in to article space. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221107160200-PerryPerryD-20221107154400; revision: 1129394950
+"Yeah, or anywhere in the userspace. I start a vast majority of my drafts at ""User:Sergecross73/(draftname)"" and them move them to the mainspace. Anything like that.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221107160700-PerryPerryD-20221107154400; revision: 1129394950
+"Probably? WPVG is pretty open about including articles, so ""band that makes songs based on games"" is probably close enough. -",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PresN-20221107160200-Blaze_Wolf-20221107142700; revision: 1129394950
+"Well, I think their cover of ""Jump Up Superstar"" is their only video game cover. However I could be wrong with that.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221107160500-PresN-20221107160200; revision: 1129394950
+"Sorry if this conversation is becoming a bit casual, but I just searched up their YouTube channel and saw they have made plenty of songs relating to video games like FNAF, Overwatch, Splatoon and Baldi's Basics, so it's definitely relevance to this WikiProject.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sparkl-20221107161100-Blaze_Wolf-20221107160500; revision: 1129394950
+Ah alright. That's just the only song I had heard by them so I didn't know if they had made others.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221107161500-Sparkl-20221107161100; revision: 1129394950
+"Video game music is actually their primary music focus, with some original music also",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221107163200-Blaze_Wolf-20221107161500; revision: 1129394950
+"I just created an article for the indie game Dujanah, and it got linked to a Wikidata page... which seemed to add in some ludicrous fields in the infobox. Because the game was created by one person, the developer, Jack King-Spooner, is now listed as the publisher, designer, programmer, artist, writer, and composer.... which is extreme, to put it mildly and looks kind of ridiculous. Is this an automatic setup with Wikidata that auto-populates infoboxes? And is this something that I have to edit on the Wikidata side instead of the Wikipedia side? (I'm just not very familiar with the process here).",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Nomader-20221107194700-Wikidata_affecting_infoboxes?; revision: 1129394950
+"Hi Nomader, to prevent infoboxes from automatically pulling data from Wikidata, you can add the parameters to the infobox but leave its contents empty. I went ahead and added a bunch of empty parameters to Dujanah so it only shows one role being fulfilled currently. (Thank you for making this article, by the way!)",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ReneeWrites-20221107201300-Nomader-20221107194700; revision: 1129394950
+"You're a legend, thanks so much for both fixing it and for the explainer!",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Nomader-20221107202900-ReneeWrites-20221107201300; revision: 1129394950
+"Someone recently renamed Category:Multidirectional shooters to Category:Twin-stick shooters. Multidirectional shooters covered games where the player can rotate and shoot, like the Asteroids series and clones and games like Yars' Revenge. Now that the category is Twin-stick shooters, it's a mess. There are all these games that don't even have joysticks. The right solution feels like going back to Multidirectional shooters and adding a sub-category for twin-stick, but that's a big rearrangement that I don't have time to make. (Also, I removed a some games from the category before I realized what was going on; other people might have done likewise.)",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Dgpop-20221107174300-Roughly_half_of_games_in_twin-stick_shooters_category_aren't; revision: 1129394950
+"I don't even know what ""Twin stick shooters"" is supposed to mean. That it uses 2 Joysticks? Would games supporting the use of a flight stick (or yoke) be considered twin stick?",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221107174500-Dgpop-20221107174300; revision: 1129394950
+"I don't mean to be rude, but you're already on the internet, there are ways to figure these sorts of things out...",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221107174700-Blaze_Wolf-20221107174500; revision: 1129394950
+Unfortunately the internet is not the most reliable or perfect place to gain information. Especially considering the link you provided doesnt really answer the question. its more-so an example.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221107175700-Sergecross73-20221107174700; revision: 1129394950
+"Agreed, and you could say the same thing about information on Wikipedia. You could basically say that you don't need to cite things because you can find them out on the internet. But this is Wikipedia. If categories aren't clearly defined here then article will be miscategorized.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221107180000-PerryPerryD-20221107175700; revision: 1129394950
+"You opened with stating that you didn't even know what a Twin Stick Shooter was. The website answers that very directly: What is a Twin Stick Shooter?
+Twin stick shooters are a genre of game which use two controls, typically operated by the thumbs. One control dictates the character's movement, the other the direction of shooting. I don't know why you bothered to answer a thread you knew nothing about, to stay that you knew nothing about the subject, but that aside, I was letting you know that it took mere seconds to find an answer to your first question.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221107180400-PerryPerryD-20221107175700; revision: 1129394950
+"Yes, but if I didn't know what the category was defining then that possibly means other people don't as well. IF we weren't to define categories on Wikipedia at all then articles would constantly be miscategorized. We cannot jsut tell people to ""google it"" or look it up on the internet.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Blaze_Wolf-20221107181000-Sergecross73-20221107180400; revision: 1129394950
+You just said you don't even know what a twin stick shooter is? Why would your next move be to delete the category?,question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221107180500-PerryPerryD-20221107175300; revision: 1129394950
+Please do not put words into my mouth. I know exactly what a twin stick shooter is. I was stating that the link you provided wasnt the best source.,suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221107180800-Sergecross73-20221107180500; revision: 1129394950
+"also its categories for discussion, more speicifcally, renaming.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221107180800-PerryPerryD-20221107180800; revision: 1129394950
+"How am I putting words in your mouth? Your literal first words of this discussion was I don't even know what ""Twin stick shooters"" is supposed to mean.",question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221107181400-PerryPerryD-20221107180800; revision: 1129394950
+"I am not Blaze Wolf, That was Blaze Wolf's introduction into this discussion. I am PerryPerryD.",discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221107181500-Sergecross73-20221107181400; revision: 1129394950
+"Apologies for misreading some signatures here. That aside, my confusion is just split across multiple editors then. Regardless of who, it seems bizarre to rocket this straight to CFD (How will general editors be able to answer this when there's WP:VG regulars that don't even know the the difference?) but to each their own. It could just be as simple as doing some cleanup.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Sergecross73-20221107182700-Blaze_Wolf-20221107181500; revision: 1129394950
+"I opened a speedy renaming request. This is not something that needs consensus, so going through CFD doesn't seem like the right course of action. It was done in error through speedy, so I'm requesting it be fixed through speedy too. After that we can make a twin-stick shooter subcategory and move the appropriate articles there.",suggestion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-ReneeWrites-20221108081600-Dgpop-20221107174300; revision: 1129394950
+There is an RFC at Talk:Star Control concerning what external links should be provided from the article (in view of the complex history of the intellectual property for the game).  Participation is welcome.,question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Robert_McClenon-20221109012900-RFC_on_External_Links_in_Star_Control; revision: 1129394950
+I wrote an article about The Bloody Baron and was hoping someone would help rewrite a better summary. I did my best but it's easy to get lost in the details. I also think it might be the first Wikipedia article about a video game quest... which is both interesting and tricky.,question,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-Archrogue-20221103151400-The_Bloody_Baron; revision: 1129394950
+This is.. difficult. The article has a lot of references which would make it notable.. but its also a quest from a Game with its own article. Im conflicted here.,discussion,AI pre-labeled; human review pending; source: https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Video_games/Archive_165#c-PerryPerryD-20221103152400-Archrogue-20221103151400; revision: 1129394950
