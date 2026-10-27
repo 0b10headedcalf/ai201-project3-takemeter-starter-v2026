@@ -231,13 +231,13 @@ is provisional because human review of 180 AI-labeled comments is pending.
 <!-- Both models on the same posts. `python baseline.py --trained results.json`
      prints this table for you. -->
 
-| Measure | Baseline | Trained | Difference |
-|---|---|---|---|
-| Overall accuracy |  |  |  |
-| Macro F1 |  |  |  |
-| F1 — `question` |  |  |  |
-| F1 — `suggestion` |  |  |  |
-| F1 — `discussion` |  |  |  |
+| Measure | Baseline |
+|---|---|
+| Overall accuracy | 0.600 |
+| Macro F1 | 0.552 |
+| F1 — `discussion` | 0.667 |
+| F1 — `question` | 0.625 |
+| F1 — `suggestion` | 0.364 |
 
 **What I predicted before I looked:**
 <!-- Milestone 1 asks you to write this BEFORE seeing the trained numbers. A
