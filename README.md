@@ -231,23 +231,25 @@ is provisional because human review of 180 AI-labeled comments is pending.
 <!-- Both models on the same posts. `python baseline.py --trained results.json`
      prints this table for you. -->
 
-| Measure | Baseline |
-|---|---|
-| Overall accuracy | 0.600 |
-| Macro F1 | 0.552 |
-| F1 — `discussion` | 0.667 |
-| F1 — `question` | 0.625 |
-| F1 — `suggestion` | 0.364 |
+|Measure | Baseline | Trained | Difference |
+|---|---|---|---|
+| Overall accuracy | 0.600 | 0.500 | -0.100 |
+| Macro F1 | 0.552 | 0.222 | -0.330 |
+| F1 — `discussion` | 0.667 | 0.667 | +0.000 |
+| F1 — `question` | 0.625 | 0.000 | -0.625 |
+| F1 — `suggestion` | 0.364 | 0.000 | -0.364 |
 
 **What I predicted before I looked:**
 <!-- Milestone 1 asks you to write this BEFORE seeing the trained numbers. A
      prediction made afterwards isn't one. -->
 
+     I predict that it will be better at classifying 'discussion' posts due to the density of their labels within the dataset.
+
 **What the gap actually means:**
 <!-- If the baseline matched your trained model, your fine-tuning added
      nothing — and that is a real finding, not a failure. Say it plainly. -->
 
-
+     Looks like there was no difference in the 'discussion' posts, the fine tuning didn't seem to do to much! I will try to change this to ensure better accuracy.
 
 ---
 
