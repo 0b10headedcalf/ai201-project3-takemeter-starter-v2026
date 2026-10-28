@@ -219,6 +219,13 @@ is provisional because human review of 180 AI-labeled comments is pending.
 **Pre-labelling disclosure:** 180 rows were pre-labeled by AI after the first
 20 were labeled cold. Human review and correction of the pre-labels is pending.
 
+**Moment 3**
+
+- *What I asked for:* Help compare the three-seed results, interpret the confusion matrix and staff agreement, and test one improvement.
+- *What came back:* Codex independently labeled the staff set, ran the agreement script, identified the model's repeated `discussion` predictions, and suggested testing more epochs. It ran the six-epoch comparison and drafted the run logs and diagnoses.
+- *What I changed:* The notebook now uses six epochs and an `after` run label, and this report records the resulting scores and their limits. The staff comparison does not check consistency under my project taxonomy, and the 180 AI-pre-labeled rows still need human review.
+
+
 <!-- ═══════════════════════ UNIT 6 — THE TEST ═══════════════════════
 
      Don't fill these in during unit 5.
@@ -260,28 +267,40 @@ is provisional because human review of 180 AI-labeled comments is pending.
 
 | Criterion | Target | Seed 42 | Seed 7 | Seed 2024 | Verdict |
 |---|---|---|---|---|---|
-| 1.  |  |  |  |  |  |
-| 2.  |  |  |  |  |  |
-| 3.  |  |  |  |  |  |
-| 4.  |  |  |  |  |  |
-| 5.  |  |  |  |  |  |
+| 1. `question` recall | ≥ 0.70 | 0.000 | 0.000 | 0.000 | MISSED |
+| 2. Overall accuracy | ≥ 0.75 | 0.500 | 0.500 | 0.500 | MISSED |
+| 3. Human annotator agreement | ≥ 0.60 on 20 shared posts using project taxonomy | Not measured | Not measured | Not measured | NOT MEASURED |
+| 4. `discussion` F1 | ≥ 0.50 | 0.667 | 0.667 | 0.667 | MET |
+| 5. `suggestion` precision | ≥ 0.50 | 0.000 | 0.000 | 0.000 | MISSED |
+
+
+| Measure | Seed 42 | Seed 7 | Seed 2024 | Spread |
+|---|---|---|---|---|
+| Overall accuracy | 0.500 | 0.500 | 0.500 | 0.000 |
+| Macro F1 | 0.222 | 0.222 | 0.222 | 0.000 |
+| F1 — `question` | 0.000 | 0.000 | 0.000 | 0.000 |
+| F1 — `suggestion` | 0.000 | 0.000 | 0.000 | 0.000 |
+| F1 — `discussion` | 0.667 | 0.667 | 0.667 | 0.000 |
+
+Accuracy spread was **0 percentage points**, below threshold. The identical scores reflect the model choosing `discussion` for every test post, so stable accuracy here does not mean it distinguishes the labels well.
 
 ### Confusion matrix
 
 <!-- ⚠️ TYPED AS A MARKDOWN TABLE. The notebook prints one ready to paste.
      An image of a matrix earns nothing. -->
 
-| true \ predicted | `question` | `suggestion` | `discussion` |
+| true \ predicted | question | suggestion | discussion |
 |---|---|---|---|
-| `question` |  |  |  |
-| `suggestion` |  |  |  |
-| `discussion` |  |  |  |
+| **question** | 0 | 0 | 7 |
+| **suggestion** | 0 | 0 | 8 |
+| **discussion** | 0 | 0 | 15 |
 
 **My biggest off-diagonal number, and what it means:**
 <!-- Not "the model made mistakes" — WHICH boundary it didn't learn, and which
      direction. "7 real analysis posts were called hot_take and only 3 went the
      other way" is a direction, not just an error rate. -->
 
+In seed 42, 8 real `suggestion` posts were called `discussion`, while no real `discussion` posts were called `suggestion`; the model favored `discussion` rather than recognizing suggested actions.
 
 
 ---
@@ -293,23 +312,21 @@ is provisional because human review of 180 AI-labeled comments is pending.
 
 | # | Criterion | Target | Verdict | How I decided |
 |---|---|---|---|---|
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
-| 5 |  |  |  |  |
+| 1 | `question` recall | ≥ 0.70 | MISSED | 0.000 in all three seeds. |
+| 2 | Overall accuracy | ≥ 0.75 | MISSED | 0.500 in all three seeds. |
+| 3 | Human agreement using project taxonomy | ≥ 0.60 on 20 shared posts | NOT MEASURED | The staff comparison uses a different taxonomy and set, so it cannot establish this criterion. |
+| 4 | `discussion` F1 | ≥ 0.50 | MET | 0.667 in all three seeds. |
+| 5 | `suggestion` precision | ≥ 0.50 | MISSED | Reported as 0.000 in all three seeds; no suggestions were predicted. |
 
 **Diagnoses**
 
-<!-- For each miss: the cause, and how you know. The four common causes are:
-     too few examples for a label, a boundary you applied inconsistently, a
-     genuinely hard label pair, and a task the model can't reach from this
-     much data.
+1. **Question recall:** All seven test questions were predicted as `discussion` in every seed. The model collapsed to the majority label; limited training examples and the 15-of-30 test-set prevalence of `discussion` are plausible contributors, but the results do not establish the cause. The baseline identified 5 of the 7 questions, so the text is not demonstrably beyond reach. The staff agreement was 30/30, with no evidence of inconsistent application on that separate taxonomy; it cannot verify the question/discussion boundary in the project labels.
 
-     ⚠️ Use your agreement report as evidence. It is the only instrument you
-     have that can tell a LABELLING problem from a MODEL problem, and this
-     section is graded on whether you used it that way. -->
+2. **Overall accuracy:** The same collapse explains the 0.500 accuracy: all 15 `discussion` examples were correct and all 15 other examples were wrong in each seed. The baseline achieved 0.600 on the same test set, suggesting the fine-tuned model did not learn useful distinctions in this run. Whether limited examples, training behavior, or unreviewed labels caused that collapse remains unresolved. The staff agreement gives no observed labeling inconsistency on its own set, but does not validate the project's 180 AI-pre-labeled rows, whose human review is pending.
 
+3. **Human agreement:** This criterion has not been tested. The 30/30 staff result used staff definitions on running posts, not two annotators independently applying this project's taxonomy to 20 shared posts. A separate project-taxonomy comparison is needed; neither MET nor MISSED is supported yet.
+
+5. **Suggestion precision:** The model made zero `suggestion` predictions in every seed, so precision has a zero denominator and the evaluation reports 0.000. It cannot produce a useful suggestion list under this run. All eight test suggestions went to `discussion`; too few examples or difficulty distinguishing suggestions from discussion are plausible, but the matrix alone cannot distinguish these causes. The staff agreement found no disagreements, and its different labels do not test this boundary; review of the project labels and a targeted agreement check are needed before attributing the failure to labeling.
 
 
 ---
@@ -322,87 +339,48 @@ is provisional because human review of 180 AI-labeled comments is pending.
      data/staff_taxonomy.md, not your own — so every argument below is made
      from those definitions and those decision rules. -->
 
-**Agreement rate:** ___ / 30 = ___%
+**Agreement rate:** 30 / 30 = 100%
 
-<!-- Nobody grades this number. A 60% who argues every disagreement from the
-     stated rules beats a 95% who wrote "staff was right" nine times. Several
-     of the 30 were chosen because they're genuinely ambiguous — you should be
-     winning some of these. -->
+**Disagreements:** None. Piles (a), (b), and (c) are all empty.
 
-**Disagreements**
-
-<!-- Three lines each: the post, both labels, and who you think is right and
-     why — grounded in the staff definitions you were both applying.
-
-     Then sort each into one of three piles:
-       (a) the rule covered it and I applied it loosely → a consistency problem
-       (b) the rule genuinely doesn't say               → a gap in the definitions
-       (c) the rule is ambiguous here and my reading is defensible → argue it.
-           This is a legitimate win.
-
-     Pile (a) is the one that matters most for your diagnosis: if you applied a
-     written rule two different ways on 30 posts, that is direct evidence about
-     what you did across your own 200. -->
-
-**1.**
-> *The post:*
->
-> *Staff said / I said:*
->
-> *My call, and why:*
->
-> *Which pile:*
-
-**2.**
-> *The post:*
->
-> *Staff said / I said:*
->
-> *My call, and why:*
->
-> *Which pile:*
-
-**What the pattern in my disagreements tells me:**
-
+**What this result tells me:** The set was relatively easy to separate in this pass: the first ten posts use specific evidence to support an argument, the next ten make general claims without load-bearing support, and the last ten report immediate personal experiences. Some individual boundaries could still invite different readings, so one perfect comparison on 30 posts does not establish that the rules are universally tight or that my own 200 labels are consistent. It shows no observed inconsistency against staff on this set.
 
 
 ---
 
 ## The Improvement
 
-**What I changed:**
+**What I changed:** Increased training from 3 to 6 epochs. All other settings, the 200 rows, split procedure, and seeds 42, 7, and 2024 stayed the same. Section 6 uses `RUN_LABEL = "after"`; results are in `results_three_seeds_after.json`.
 
-**Which diagnosis pointed at it:**
+**Which diagnosis pointed at it:** The before model predicted `discussion` for every test example across all seeds, while the baseline identified 5 of 7 questions on seed 42. That suggested the fine-tuning might not have learned the distinctions; extra epochs test that possibility, without establishing why the collapse occurred.
 
 ### Run Log — After
 
 | Criterion | Target | Seed 42 | Seed 7 | Seed 2024 | Verdict |
 |---|---|---|---|---|---|
-| 1.  |  |  |  |  |  |
-| 2.  |  |  |  |  |  |
-| 3.  |  |  |  |  |  |
-| 4.  |  |  |  |  |  |
-| 5.  |  |  |  |  |  |
+| 1. `question` recall | ≥ 0.70 | 0.000 | 0.000 | 0.000 | MISSED |
+| 2. Overall accuracy | ≥ 0.75 | 0.500 | 0.500 | 0.533 | MISSED |
+| 3. Human annotator agreement | ≥ 0.60 on 20 shared posts using project taxonomy | Not measured | Not measured | Not measured | NOT MEASURED |
+| 4. `discussion` F1 | ≥ 0.50 | 0.667 | 0.667 | 0.682 | MET |
+| 5. `suggestion` precision | ≥ 0.50 | 0.000 | 0.000 | 1.000 | MISSED |
 
-**Did it help, and how do I know:**
+For seeds 42 and 7, no `suggestion` predictions were made: precision is undefined and the evaluation reports it as zero. Seed 2024's precision of 1.000 reflects only one prediction, which was correct. Human agreement is independent of training seeds and the staff-taxonomy check does not measure the project-taxonomy criterion.
 
-<!-- If it didn't, say so. Relabelling that didn't help is a genuinely
-     interesting result and earns full credit. -->
-
+**Did it help, and how do I know:** Only slightly on seed 2024: accuracy rose from 0.500 to 0.533 and one of eight suggestions was identified, raising suggestion F1 from 0.000 to 0.222. Seeds 42 and 7 still predicted `discussion` for every post, and all seven questions were missed in every seed. No criterion changed verdict, so six epochs did not produce a reliable improvement across trials. The 30-post test splits and pending human review of 180 pre-labeled examples limit the conclusion.
 
 
 ---
 
 ## What's Still Broken
 
-<!-- For each criterion still missed: what you'd do, and why you stopped. -->
+- **Question recall (criterion 1):** Review the question labels and the question/discussion boundary, then add carefully labeled examples if needed and evaluate a new run. All seven test questions were missed in every after seed. I stopped after the single planned epoch change so another data change would not be mixed into its measurement; human review of the pre-labeled data remains pending.
+- **Overall accuracy (criterion 2):** Investigate the persistent majority-label predictions, including the training data and label quality, before testing another targeted change. Accuracy is 0.500, 0.500, and 0.533 against a 0.75 target. I stopped after the controlled rerun because the cause is not established and another intervention would need its own comparison.
+- **Suggestion precision (criterion 5):** Review actionable-suggestion examples and their boundary with discussion, then add carefully labeled examples or test a targeted training change. Two seeds made no suggestion predictions and the third made only one correct prediction. I stopped after the one change; a single prediction is too little evidence of a reliable solution.
+- **Human agreement (criterion 3):** This is unmeasured, rather than a demonstrated miss. Have two people independently label at least 20 shared project comments using the project taxonomy and compare them; the 30/30 staff check used different definitions. I stopped because that independent second annotation has not been supplied.
 
+**The gap between what I meant my labels to capture and what the model learned:**
 
-
-**The gap between what I meant my labels to capture and what the model
-learned:**
-<!-- Two sentences. Your confusion matrix is the evidence. -->
-
+The labels were meant to distinguish requests for input, actionable proposals, and other discussion. After six epochs, the confusion matrices show every question sent to `discussion` in all seeds and all but one suggestion sent there, so the model mostly learned to predict the broad discussion category.
 
 
 <!-- ═════════════════════════════════════════════════════════════════════

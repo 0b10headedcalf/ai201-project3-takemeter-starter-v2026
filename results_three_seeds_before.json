@@ -1,163 +1,163 @@
 [
   {
     "seed": 42,
-    "n_test": 9,
-    "accuracy": 0.6666666666666666,
-    "f1_macro": 0.5555555555555555,
+    "n_test": 30,
+    "accuracy": 0.5,
+    "f1_macro": 0.2222222222222222,
     "per_label": {
-      "analysis": {
-        "precision": 0.5,
-        "recall": 1.0,
-        "f1": 0.6666666666666666,
-        "support": 3
-      },
-      "hot_take": {
+      "question": {
         "precision": 0.0,
         "recall": 0.0,
         "f1": 0.0,
-        "support": 3
+        "support": 7
       },
-      "reaction": {
-        "precision": 1.0,
+      "suggestion": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 8
+      },
+      "discussion": {
+        "precision": 0.5,
         "recall": 1.0,
-        "f1": 1.0,
-        "support": 3
+        "f1": 0.6666666666666666,
+        "support": 15
       }
     },
     "confusion": {
-      "analysis": {
-        "analysis": 3,
-        "hot_take": 0,
-        "reaction": 0
+      "question": {
+        "question": 0,
+        "suggestion": 0,
+        "discussion": 7
       },
-      "hot_take": {
-        "analysis": 3,
-        "hot_take": 0,
-        "reaction": 0
+      "suggestion": {
+        "question": 0,
+        "suggestion": 0,
+        "discussion": 8
       },
-      "reaction": {
-        "analysis": 0,
-        "hot_take": 0,
-        "reaction": 3
+      "discussion": {
+        "question": 0,
+        "suggestion": 0,
+        "discussion": 15
       }
     },
     "confidence": {
-      "mean_when_right": 0.36559614539146423,
-      "mean_when_wrong": 0.35738030076026917,
-      "accuracy_most_confident_third": 1.0,
-      "accuracy_least_confident_third": 0.6666666666666666,
-      "n_per_third": 3
+      "mean_when_right": 0.46066704392433167,
+      "mean_when_wrong": 0.4554908573627472,
+      "accuracy_most_confident_third": 0.7,
+      "accuracy_least_confident_third": 0.5,
+      "n_per_third": 10
     },
-    "device": "cuda",
-    "device_name": "NVIDIA GeForce RTX 4080 Laptop GPU",
+    "device": "cpu",
+    "device_name": "CPU",
     "torch_version": "2.14.1+cu130",
     "max_length": 128
   },
   {
     "seed": 7,
-    "n_test": 9,
-    "accuracy": 0.6666666666666666,
-    "f1_macro": 0.6555555555555556,
+    "n_test": 30,
+    "accuracy": 0.5,
+    "f1_macro": 0.2222222222222222,
     "per_label": {
-      "analysis": {
-        "precision": 1.0,
-        "recall": 0.3333333333333333,
-        "f1": 0.5,
-        "support": 3
+      "question": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 7
       },
-      "hot_take": {
+      "suggestion": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 8
+      },
+      "discussion": {
         "precision": 0.5,
         "recall": 1.0,
         "f1": 0.6666666666666666,
-        "support": 3
-      },
-      "reaction": {
-        "precision": 1.0,
-        "recall": 0.6666666666666666,
-        "f1": 0.8,
-        "support": 3
+        "support": 15
       }
     },
     "confusion": {
-      "analysis": {
-        "analysis": 1,
-        "hot_take": 2,
-        "reaction": 0
+      "question": {
+        "question": 0,
+        "suggestion": 0,
+        "discussion": 7
       },
-      "hot_take": {
-        "analysis": 0,
-        "hot_take": 3,
-        "reaction": 0
+      "suggestion": {
+        "question": 0,
+        "suggestion": 0,
+        "discussion": 8
       },
-      "reaction": {
-        "analysis": 0,
-        "hot_take": 1,
-        "reaction": 2
+      "discussion": {
+        "question": 0,
+        "suggestion": 0,
+        "discussion": 15
       }
     },
     "confidence": {
-      "mean_when_right": 0.37041178345680237,
-      "mean_when_wrong": 0.35854172706604004,
-      "accuracy_most_confident_third": 1.0,
-      "accuracy_least_confident_third": 0.3333333333333333,
-      "n_per_third": 3
+      "mean_when_right": 0.4458933472633362,
+      "mean_when_wrong": 0.4399154484272003,
+      "accuracy_most_confident_third": 0.7,
+      "accuracy_least_confident_third": 0.4,
+      "n_per_third": 10
     },
-    "device": "cuda",
-    "device_name": "NVIDIA GeForce RTX 4080 Laptop GPU",
+    "device": "cpu",
+    "device_name": "CPU",
     "torch_version": "2.14.1+cu130",
     "max_length": 128
   },
   {
     "seed": 2024,
-    "n_test": 9,
-    "accuracy": 0.6666666666666666,
-    "f1_macro": 0.6555555555555556,
+    "n_test": 30,
+    "accuracy": 0.5,
+    "f1_macro": 0.2222222222222222,
     "per_label": {
-      "analysis": {
-        "precision": 1.0,
-        "recall": 0.3333333333333333,
-        "f1": 0.5,
-        "support": 3
+      "question": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 7
       },
-      "hot_take": {
-        "precision": 1.0,
-        "recall": 0.6666666666666666,
-        "f1": 0.8,
-        "support": 3
+      "suggestion": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 8
       },
-      "reaction": {
+      "discussion": {
         "precision": 0.5,
         "recall": 1.0,
         "f1": 0.6666666666666666,
-        "support": 3
+        "support": 15
       }
     },
     "confusion": {
-      "analysis": {
-        "analysis": 1,
-        "hot_take": 0,
-        "reaction": 2
+      "question": {
+        "question": 0,
+        "suggestion": 0,
+        "discussion": 7
       },
-      "hot_take": {
-        "analysis": 0,
-        "hot_take": 2,
-        "reaction": 1
+      "suggestion": {
+        "question": 0,
+        "suggestion": 0,
+        "discussion": 8
       },
-      "reaction": {
-        "analysis": 0,
-        "hot_take": 0,
-        "reaction": 3
+      "discussion": {
+        "question": 0,
+        "suggestion": 0,
+        "discussion": 15
       }
     },
     "confidence": {
-      "mean_when_right": 0.37599071860313416,
-      "mean_when_wrong": 0.35264480113983154,
-      "accuracy_most_confident_third": 1.0,
-      "accuracy_least_confident_third": 0.3333333333333333,
-      "n_per_third": 3
+      "mean_when_right": 0.46284449100494385,
+      "mean_when_wrong": 0.4616638123989105,
+      "accuracy_most_confident_third": 0.6,
+      "accuracy_least_confident_third": 0.4,
+      "n_per_third": 10
     },
-    "device": "cuda",
-    "device_name": "NVIDIA GeForce RTX 4080 Laptop GPU",
+    "device": "cpu",
+    "device_name": "CPU",
     "torch_version": "2.14.1+cu130",
     "max_length": 128
   }
